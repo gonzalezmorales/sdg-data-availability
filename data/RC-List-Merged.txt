@@ -1,132 +1,132 @@
-Country	M49	ISO	List1_excel	List2_pdf	Level
-Afghanistan	4	AFG	1	1	ASG
-Albania	8	ALB	2	2	D1
-Algeria	12	DZA	3	3	D1
-Angola	24	AGO	4	4	D2
-Argentina	32	ARG	5	5	D2
-Armenia	51	ARM	6	6	D1
-Azerbaijan	31	AZE	7	7	D1
-Bahrain	48	BHR	8	8	D1
-Bangladesh	50	BGD	9	9	D2
-Barbados	52	BRB	10	10	D1
-Belarus	112	BLR	11	11	D1
-Belize	84	BLZ	12		
-Benin	204	BEN	13	12	D1
-Bhutan	64	BTN	14	13	D1
-Bolivia (Plurinational State of)	68	BOL	15	14	D1
-Bosnia and Herzegovina	70	BIH	16	15	D1
-Botswana	72	BWA	17	16	D1
-Brazil	76	BRA	18	17	D2
-Burkina Faso	854	BFA	19	18	D1
-Burundi	108	BDI	20	19	D2
-Cambodia	116	KHM	21	21	D1
-Cameroon	120	CMR	22	22	D1
-Cabo Verde	132	CPV	23	20	D1
-Central African Republic	140	CAF	24	23	ASG
-Chad	148	TCD	25	24	D2
-Chile	152	CHL	26	25	D1
-China	156	CHN	27	26	D2
-Colombia	170	COL	28	27	D2
-Comoros	174	COM	29	28	D1
-Congo	178	COG	30	29	D1
-Costa Rica	188	CRI	31	30	D1
-Côte d’Ivoire	384	CIV	32	31	D2
-Cuba	192	CUB	33	32	D1
-Djibouti	262	DJI	34	35	D1
-Dominican Republic	214	DOM	35	36	D1
-Democratic People's Republic of Korea	408	PRK	36	33	D1
-Ecuador	218	ECU	37	37	D1
-Egypt	818	EGY	38	38	D2
-El Salvador	222	SLV	39	39	D1
-Equatorial Guinea	226	GNQ	40	40	D1
-Eritrea	232	ERI	41	41	D1
-Eswatini	748	SWZ	42	42	D1
-Ethiopia	231	ETH	43	43	D2
-Fiji	242	FJI	44	44	D1
-Gabon	266	GAB	45	45	D1
-Georgia	268	GEO	46	47	D1
-Ghana	288	GHA	47	48	D1
-Guatemala	320	GTM	48	49	D2
-Guinea	324	GIN	49	50	D1
-Guinea-Bissau	624	GNB	50	51	D2
-Guyana	328	GUY	51	52	D1
-Haiti	332	HTI	52	53	D2
-Honduras	340	HND	53	54	D1
-India	356	IND	54	55	D2
-Indonesia	360	IDN	55	56	D2
-Iran (Islamic Republic of)	364	IRN	56	57	D1
-Iraq	368	IRQ	57	58	ASG
-Jamaica	388	JAM	58	59	D1
-Jordan	400	JOR	59	60	D1
-Kazakhstan	398	KAZ	60	61	D1
-Kenya	404	KEN	61	62	D2
-Kosovo			62	63	D1
-Kuwait	414	KWT	63	64	D1
-Kyrgyzstan	417	KGZ	64	65	D1
-Lao People's Democratic Republic	418	LAO	65	66	D1
-Lebanon	422	LBN	66	67	ASG
-Lesotho	426	LSO	67	68	D1
-Liberia	430	LBR	68	69	D2
-Libya	434	LBY	69	70	ASG
-Madagascar	450	MDG	70	71	D1
-Malawi	454	MWI	71	72	D1
-Malaysia	458	MYS	72	73	D1
-Maldives	462	MDV	73	74	D1
-Mali	466	MLI	74	75	ASG
-Mauritania	478	MRT	75	76	D1
-Mauritius	480	MUS	76	77	D1
-Mexico	484	MEX	77	78	D2
-Republic of Moldova	498	MDA	78	95	D1
-Mongolia	496	MNG	79	79	D1
-Montenegro	499	MNE	80	80	D1
-Morocco	504	MAR	81	81	D1
-Mozambique	508	MOZ	82	82	D2
-Myanmar	104	MMR	83	83	D2
-Namibia	516	NAM	84	84	D1
-Nepal	524	NPL	85	85	D2
-Niger	562	NER	86	87	D2
-Nigeria	566	NGA	87	88	D2
-Pakistan	586	PAK	88	89	D2
-State of Palestine	275	PSE	89	107	ASG
-Panama	591	PAN	90	90	D1
-Papua New Guinea	598	PNG	91	91	D1
-Paraguay	600	PRY	92	92	D1
-Peru	604	PER	93	93	D1
-Philippines	608	PHL	94	94	D2
-North Macedonia	807	MKD	95	111	D1
-Rwanda	646	RWA	96	96	D2
-Samoa	882	WSM	97	97	D1
-Sao Tome and Principe	678	STP	98	98	D1
-Saudi Arabia	682	SAU	99	99	D1
-Senegal	686	SEN	100	100	D1
-Serbia	688	SRB	101	101	D1
-Sierra Leone	694	SLE	102	102	D2
-Somalia	706	SOM	103	103	ASG
-South Africa	710	ZAF	104	104	D2
-South Sudan	728	SSD	105	105	ASG
-Sri Lanka	144	LKA	106	106	D1
-Sudan	729	SDN	107	108	D2
-Suriname	740	SUR	108		
-Syrian Arab Republic	760	SYR	109	109	ASG
-Tajikistan	762	TJK	110	110	D2
-United Republic of Tanzania	834	TZA	111	122	D2
-Thailand	764	THA	112	112	D1
-Democratic Republic of the Congo	180	COD	113	34	ASG
-Gambia	270	GMB	114	46	D1
-Timor-Leste	626	TLS	115	113	D1
-Togo	768	TGO	116	114	D1
-Trinidad and Tobago	780	TTO	117	115	D1
-Tunisia	788	TUN	118	116	D1
-Turkey	792	TUR	119	117	D2
-Turkmenistan	795	TKM	120	118	D1
-Uganda	800	UGA	121	119	D1
-Ukraine	804	UKR	122	120	D2
-United Arab Emirates	784	ARE	123	121	D1
-Uruguay	858	URY	124	123	D1
-Uzbekistan	860	UZB	125	124	D1
-Venezuela (Bolivarian Republic of)	862	VEN	126	125	D1
-Viet Nam	704	VNM	127	126	D2
-Yemen	887	YEM	128	127	ASG
-Zambia	894	ZMB	129	128	D1
-Zimbabwe	716	ZWE	130	129	D2
-Nicaragua	558	NIC		86	D1
+Country	M49	ISO	List1_excel	List2_pdf	List_final	Level
+Afghanistan	4	AFG	1	1	1	ASG
+Albania	8	ALB	2	2	2	D1
+Algeria	12	DZA	3	3	3	D1
+Angola	24	AGO	4	4	4	D2
+Argentina	32	ARG	5	5	5	D2
+Armenia	51	ARM	6	6	6	D1
+Azerbaijan	31	AZE	7	7	7	D1
+Bahrain	48	BHR	8	8	8	D1
+Bangladesh	50	BGD	9	9	9	D2
+Barbados	52	BRB	10	10	10	D1
+Belarus	112	BLR	11	11	11	D1
+Belize	84	BLZ	12		12	
+Benin	204	BEN	13	12	13	D1
+Bhutan	64	BTN	14	13	14	D1
+Bolivia (Plurinational State of)	68	BOL	15	14	15	D1
+Bosnia and Herzegovina	70	BIH	16	15	16	D1
+Botswana	72	BWA	17	16	17	D1
+Brazil	76	BRA	18	17	18	D2
+Burkina Faso	854	BFA	19	18	19	D1
+Burundi	108	BDI	20	19	20	D2
+Cabo Verde	132	CPV	23	20	21	D1
+Cambodia	116	KHM	21	21	22	D1
+Cameroon	120	CMR	22	22	23	D1
+Central African Republic	140	CAF	24	23	24	ASG
+Chad	148	TCD	25	24	25	D2
+Chile	152	CHL	26	25	26	D1
+China	156	CHN	27	26	27	D2
+Colombia	170	COL	28	27	28	D2
+Comoros	174	COM	29	28	29	D1
+Congo	178	COG	30	29	30	D1
+Costa Rica	188	CRI	31	30	31	D1
+Côte d’Ivoire	384	CIV	32	31	32	D2
+Cuba	192	CUB	33	32	33	D1
+Democratic People's Republic of Korea	408	PRK	36	33	34	D1
+Democratic Republic of the Congo	180	COD	113	34	35	ASG
+Djibouti	262	DJI	34	35	36	D1
+Dominican Republic	214	DOM	35	36	37	D1
+Ecuador	218	ECU	37	37	38	D1
+Egypt	818	EGY	38	38	39	D2
+El Salvador	222	SLV	39	39	40	D1
+Equatorial Guinea	226	GNQ	40	40	41	D1
+Eritrea	232	ERI	41	41	42	D1
+Eswatini	748	SWZ	42	42	43	D1
+Ethiopia	231	ETH	43	43	44	D2
+Fiji	242	FJI	44	44	45	D1
+Gabon	266	GAB	45	45	46	D1
+Gambia	270	GMB	114	46	47	D1
+Georgia	268	GEO	46	47	48	D1
+Ghana	288	GHA	47	48	49	D1
+Guatemala	320	GTM	48	49	50	D2
+Guinea	324	GIN	49	50	51	D1
+Guinea-Bissau	624	GNB	50	51	52	D2
+Guyana	328	GUY	51	52	53	D1
+Haiti	332	HTI	52	53	54	D2
+Honduras	340	HND	53	54	55	D1
+India	356	IND	54	55	56	D2
+Indonesia	360	IDN	55	56	57	D2
+Iran (Islamic Republic of)	364	IRN	56	57	58	D1
+Iraq	368	IRQ	57	58	59	ASG
+Jamaica	388	JAM	58	59	60	D1
+Jordan	400	JOR	59	60	61	D1
+Kazakhstan	398	KAZ	60	61	62	D1
+Kenya	404	KEN	61	62	63	D2
+Kosovo			62	63	64	D1
+Kuwait	414	KWT	63	64	65	D1
+Kyrgyzstan	417	KGZ	64	65	66	D1
+Lao People's Democratic Republic	418	LAO	65	66	67	D1
+Lebanon	422	LBN	66	67	68	ASG
+Lesotho	426	LSO	67	68	69	D1
+Liberia	430	LBR	68	69	70	D2
+Libya	434	LBY	69	70	71	ASG
+Madagascar	450	MDG	70	71	72	D1
+Malawi	454	MWI	71	72	73	D1
+Malaysia	458	MYS	72	73	74	D1
+Maldives	462	MDV	73	74	75	D1
+Mali	466	MLI	74	75	76	ASG
+Mauritania	478	MRT	75	76	77	D1
+Mauritius	480	MUS	76	77	78	D1
+Mexico	484	MEX	77	78	79	D2
+Mongolia	496	MNG	79	79	80	D1
+Montenegro	499	MNE	80	80	81	D1
+Morocco	504	MAR	81	81	82	D1
+Mozambique	508	MOZ	82	82	83	D2
+Myanmar	104	MMR	83	83	84	D2
+Namibia	516	NAM	84	84	85	D1
+Nepal	524	NPL	85	85	86	D2
+Nicaragua	558	NIC		86	87	D1
+Niger	562	NER	86	87	88	D2
+Nigeria	566	NGA	87	88	89	D2
+North Macedonia	807	MKD	95	111	90	D1
+Pakistan	586	PAK	88	89	91	D2
+Panama	591	PAN	90	90	92	D1
+Papua New Guinea	598	PNG	91	91	93	D1
+Paraguay	600	PRY	92	92	94	D1
+Peru	604	PER	93	93	95	D1
+Philippines	608	PHL	94	94	96	D2
+Republic of Moldova	498	MDA	78	95	97	D1
+Rwanda	646	RWA	96	96	98	D2
+Samoa	882	WSM	97	97	99	D1
+Sao Tome and Principe	678	STP	98	98	100	D1
+Saudi Arabia	682	SAU	99	99	101	D1
+Senegal	686	SEN	100	100	102	D1
+Serbia	688	SRB	101	101	103	D1
+Sierra Leone	694	SLE	102	102	104	D2
+Somalia	706	SOM	103	103	105	ASG
+South Africa	710	ZAF	104	104	106	D2
+South Sudan	728	SSD	105	105	107	ASG
+Sri Lanka	144	LKA	106	106	108	D1
+State of Palestine	275	PSE	89	107	109	ASG
+Sudan	729	SDN	107	108	110	D2
+Suriname	740	SUR	108		111	
+Syrian Arab Republic	760	SYR	109	109	112	ASG
+Tajikistan	762	TJK	110	110	113	D2
+Thailand	764	THA	112	112	114	D1
+Timor-Leste	626	TLS	115	113	115	D1
+Togo	768	TGO	116	114	116	D1
+Trinidad and Tobago	780	TTO	117	115	117	D1
+Tunisia	788	TUN	118	116	118	D1
+Turkey	792	TUR	119	117	119	D2
+Turkmenistan	795	TKM	120	118	120	D1
+Uganda	800	UGA	121	119	121	D1
+Ukraine	804	UKR	122	120	122	D2
+United Arab Emirates	784	ARE	123	121	123	D1
+United Republic of Tanzania	834	TZA	111	122	124	D2
+Uruguay	858	URY	124	123	125	D1
+Uzbekistan	860	UZB	125	124	126	D1
+Venezuela (Bolivarian Republic of)	862	VEN	126	125	127	D1
+Viet Nam	704	VNM	127	126	128	D2
+Yemen	887	YEM	128	127	129	ASG
+Zambia	894	ZMB	129	128	130	D1
+Zimbabwe	716	ZWE	130	129	131	D2

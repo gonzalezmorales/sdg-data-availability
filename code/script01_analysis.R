@@ -48,5 +48,88 @@ colnames(colors) <- c("GoalCode", "hex", "rgb.1", "rgb.2", "rgb.3", "iconUrl",
   
 rownames(colors) <- NULL
 
+#==========================================================
+
+# The arguments to gather():
+# - data: Data object
+# - key: Name of new key column (made from names of data columns)
+# - value: Name of new value column
+# - ...: Names of source columns that contain values
+# - factor_key: Treat the new key column as a factor (instead of character vector)
+availability_data <- gather(availability_data, country, dataPoints, X4_Afghanistan:X894_Zambia, factor_key=FALSE)
+
+availability_data <- separate(availability_data, country, c("countryCode", "countryName"), sep = "_")
+
+availability_data <- as.data.table(availability_data)
+
+availability_data[,countryCode := gsub("X","", countryCode)]
+
+availability_data[,countryName := gsub("\\."," ", countryName)]
+
+availability_data <- availability_data[, countryCode:=as.numeric(countryCode)]
+
+#===========================================================
+
+# merge cr countries
+
+availability_data <- merge(availability_data, cr_countries, by.x = "countryCode", by.y = "M49", all = TRUE, 
+      suffixes = c("",".CR"))
+
+availability_data[,isRC := !is.na(List_final)]
 
 
+
+#===========================================================
+
+availability_data[,TierX := ifelse(Tier%in%c("Tier I",
+                                             "Tier I/II/III depending on index",
+                                             "Tier I (a)/ Tier II (b)",
+                                             "Tier I (ODA)/ Tier II (FDI)",
+                                             "Tier I/III"),"Tier I*", 
+                                   Tier)]
+availability_data[, hasData := ifelse(dataPoints > 0 , 1, 0)]
+
+writeTable2tab(availability_data, "availability_data.txt")
+
+#===========================================================
+
+
+T1 <- availability_data[, .(indicatorsAvailable = sum(hasData, na.rm = TRUE), .N),
+                  by=list(countryCode, countryName,Country,ISO, isRC, TierX)]
+
+T1[,percent := indicatorsAvailable / N * 100]
+
+T1[,N2 := ifelse(TierX == "Tier I*", 107, 
+                 ifelse(TierX == "Tier II", 84, 41))]
+
+
+T1[,percent2 := indicatorsAvailable / N2 * 100]
+
+
+
+writeTable2tab(T1, "T1-availability-by-country-and-tier.txt")
+
+
+
+#===========================================================
+
+T2 <- availability_data[, .(countriesAvailable = sum(hasData, na.rm = TRUE), .N),
+                                 by=list(Goal, Indicator, IndicatorCode, IndicatorDescription, TierX)]
+
+T2[,percent := countriesAvailable / N * 100]
+T2[,Has75percentPlus := ifelse(percent>=75,1,0)]
+
+
+writeTable2tab(T1, "T1-availability-by-indicator-193.txt")
+
+
+#===========================================================
+
+T2.rc <- availability_data[, .(countriesAvailable = sum(hasData, na.rm = TRUE), .N),
+                                 by=list(isRC, Goal, Indicator, IndicatorCode, IndicatorDescription, TierX)]
+
+T2.rc[,percent := countriesAvailable / N * 100]
+T2.rc[,Has75percentPlus := ifelse(percent>=75,1,0)]
+
+
+writeTable2tab(T2.rc, "T2-availability-by-indicator-and-rc-131.txt")
