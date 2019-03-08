@@ -1,314 +1,312 @@
 isRC	Goal	Indicator	IndicatorCode	IndicatorDescription	TierX	countriesAvailable	N	percent	Has75percentPlus
-TRUE						0	2	0	0
-TRUE	1	1.1.1	C010101	1.1.1 Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)	Tier I*	118	129	91.4728682170543	1
-TRUE	1	1.2.1	C010201	1.2.1 Proportion of population living below the national poverty line, by sex and age	Tier I*	113	129	87.5968992248062	1
-TRUE	1	1.3.1	C010301	1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable	Tier II	97	129	75.1937984496124	1
-TRUE	1	1.3.1 (dupl)	C010301	1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable	Tier II	116	129	89.922480620155	1
-TRUE	1	1.5.1, 11.5.1, 13.1.1	C200303	1.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population	Tier II	82	129	63.5658914728682	0
-TRUE	1	1.5.2, 11.5.2	C010502	1.5.2 Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)	Tier II	82	129	63.5658914728682	0
-TRUE	1	1.5.3, 11.b.1, 13.1.2	C200304	1.5.3 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015<U+0096>2030	Tier I*	83	129	64.3410852713178	0
-TRUE	1	1.5.4, 11.b.2, 13.1.3	C200305	1.5.4 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies	Tier II	9	129	6.97674418604651	0
-TRUE	1	1.a.2	C010a02	1.a.2 Proportion of total government spending on essential services (education, health and social protection)	Tier II	114	129	88.3720930232558	1
-TRUE	2	2.1.1	C020101	2.1.1 Prevalence of undernourishment	Tier I*	117	129	90.6976744186046	1
-TRUE	2	2.1.2	C020102	2.1.2 Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)	Tier II	29	129	22.4806201550388	0
-TRUE	2	2.2.1	C020201	2.2.1 Prevalence of stunting (height for age &lt;-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5<U+00A0>years of age	Tier I*	125	129	96.8992248062015	1
-TRUE	2	2.2.2	C020202	2.2.2 Prevalence of malnutrition (weight for height &gt;+2 or &lt;-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5<U+00A0>years of age, by type (wasting and overweight)	Tier I*	125	129	96.8992248062015	1
-TRUE	2	2.5.1	C020501	2.5.1 Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities	Tier I*	126	129	97.6744186046512	1
-TRUE	2	2.5.2	C020502	2.5.2 Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction	Tier I*	120	129	93.0232558139535	1
-TRUE	2	2.a.1	C020a01	2.a.1 The agriculture orientation index for government expenditures	Tier I*	89	129	68.9922480620155	0
-TRUE	2	2.a.2	C020a02	2.a.2 Total official flows (official development assistance plus other official flows) to the agriculture sector	Tier I*	127	129	98.4496124031008	1
-TRUE	2	2.b.1	C020b02	2.b.1 Agricultural export subsidies	Tier I*	0	129	0	0
-TRUE	2	2.c.1	C020c01	2.c.1 Indicator of food price anomalies	Tier II	75	129	58.1395348837209	0
-TRUE	3	3.1.1	C030101	3.1.1 Maternal mortality ratio	Tier I*	129	129	100	1
-TRUE	3	3.1.2	C030102	3.1.2 Proportion of births attended by skilled health personnel	Tier I*	129	129	100	1
-TRUE	3	3.2.1	C030201	3.2.1 Under-5 mortality rate	Tier I*	129	129	100	1
-TRUE	3	3.2.2	C030202	3.2.2 Neonatal mortality rate	Tier I*	129	129	100	1
-TRUE	3	3.3.1	C030301	3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations	Tier I*	112	129	86.8217054263566	1
-TRUE	3	3.3.2	C030302	3.3.2 Tuberculosis incidence per 100,000 population	Tier I*	129	129	100	1
-TRUE	3	3.3.3	C030303	3.3.3 Malaria incidence per 1,000 population	Tier I*	96	129	74.4186046511628	0
-TRUE	3	3.3.4	C030304	3.3.4 Hepatitis B incidence per 100,000 population	Tier I*	129	129	100	1
-TRUE	3	3.3.5	C030305	3.3.5 Number of people requiring interventions against neglected tropical diseases	Tier I*	129	129	100	1
-TRUE	3	3.4.1	C030401	3.4.1 Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease	Tier I*	129	129	100	1
-TRUE	3	3.4.2	C030402	3.4.2 Suicide mortality rate	Tier I*	129	129	100	1
-TRUE	3	3.5.2	C030502	3.5.2 Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15<U+00A0>years and older) within a calendar year in litres of pure alcohol	Tier I*	128	129	99.2248062015504	1
-TRUE	3	3.6.1	C030601	3.6.1 Death rate due to road traffic injuries	Tier I*	129	129	100	1
-TRUE	3	3.7.1	C030701	3.7.1 Proportion of women of reproductive age (aged 15<U+0096>49<U+00A0>years) who have their need for family planning satisfied with modern methods	Tier I*	115	129	89.1472868217054	1
-TRUE	3	3.7.2	C030702	3.7.2 Adolescent birth rate (aged 10<U+0096>14 years; aged 15<U+0096>19<U+00A0>years) per 1,000 women in that age group	Tier I*	129	129	100	1
-TRUE	3	3.8.1	C030801	3.8.1 Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)	Tier I*	129	129	100	1
-TRUE	3	3.8.2	C030802	3.8.2 Proportion of population with large household expenditures on health as a share of total household expenditure or income	Tier I*	87	129	67.4418604651163	0
-TRUE	3	3.9.1	C030901	3.9.1 Mortality rate attributed to household and ambient air pollution	Tier I*	129	129	100	1
-TRUE	3	3.9.2	C030902	3.9.2 Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)	Tier I*	129	129	100	1
-TRUE	3	3.9.3	C030903	3.9.3 Mortality rate attributed to unintentional poisoning	Tier I*	129	129	100	1
-TRUE	3	3.a.1	C030a01	3.a.1 Age-standardized prevalence of current tobacco use among persons aged 15<U+00A0>years and older	Tier I*	95	129	73.6434108527132	0
-TRUE	3	3.b.1	C030b01	3.b.1 Proportion of the target population covered by all vaccines included in their national programme	Tier I*	129	129	100	1
-TRUE	3	3.b.2	C030b02	3.b.2 Total net official development assistance to medical research and basic health sectors	Tier I*	127	129	98.4496124031008	1
-TRUE	3	3.c.1	C030c01	3.c.1 Health worker density and distribution	Tier I*	127	129	98.4496124031008	1
-TRUE	3	3.d.1	C030d01	3.d.1 International Health Regulations (IHR) capacity and health emergency preparedness	Tier I*	129	129	100	1
-TRUE	4	4.1.1	C040101	4.1.1 Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex	Tier II	84	129	65.1162790697674	0
-TRUE	4	4.2.1	C040201	4.2.1 Proportion of children under 5<U+00A0>years of age who are developmentally on track in health, learning and psychosocial well-being, by sex	Tier III	62	129	48.062015503876	0
-TRUE	4	4.2.2	C040202	4.2.2 Participation rate in organized learning (one year before the official primary entry age), by sex	Tier I*	101	129	78.2945736434108	1
-TRUE	4	4.3.1	C040301	4.3.1 Participation rate of youth and adults in formal and non-formal education and training in the previous 12<U+00A0>months, by sex	Tier II	4	129	3.10077519379845	0
-TRUE	4	4.4.1	C040401	4.4.1 Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill	Tier II	24	129	18.6046511627907	0
-TRUE	4	4.5.1	C040501	4.5.1 Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated	Tier I*	123	129	95.3488372093023	1
-TRUE	4	4.6.1	C040601	4.6.1 Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex	Tier II	10	129	7.75193798449612	0
-TRUE	4	4.a.1	C040a01	4.a.1 Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g)<U+00A0>basic handwashing facilities (as per the WASH indicator definitions)	Tier II	74	129	57.3643410852713	0
-TRUE	4	4.b.1	C040b01	4.b.1 Volume of official development assistance flows for scholarships by sector and type of study	Tier I*	126	129	97.6744186046512	1
-TRUE	4	4.c.1	C040c01	4.c.1 Proportion of teachers in: (a) pre-primary; (b)<U+00A0>primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country	Tier II	110	129	85.2713178294574	1
-TRUE	5	5.2.1	C050201	5.2.1 Proportion of ever-partnered women and girls aged 15<U+00A0>years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age	Tier II	54	129	41.8604651162791	0
-TRUE	5	5.3.1	C050301	5.3.1 Proportion of women aged 20<U+0096>24<U+00A0>years who were married or in a union before age 15 and before age 18	Tier II	115	129	89.1472868217054	1
-TRUE	5	5.3.2	C050302	5.3.2 Proportion of girls and women aged 15<U+0096>49<U+00A0>years who have undergone female genital mutilation/cutting, by<U+00A0>age	Tier II	29	129	22.4806201550388	0
-TRUE	5	5.4.1	C050401	5.4.1 Proportion of time spent on unpaid domestic and care work, by sex, age and location	Tier II	52	129	40.3100775193798	0
-TRUE	5	5.5.1	C050501	5.5.1 Proportion of seats held by women in (a) national parliaments and (b) local governments	Tier I*	129	129	100	1
-TRUE	5	5.5.2	C050502	5.5.2 Proportion of women in managerial positions	Tier I*	96	129	74.4186046511628	0
-TRUE	5	5.6.1	C050601	5.6.1 Proportion of women aged 15<U+0096>49<U+00A0>years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care	Tier II	47	129	36.4341085271318	0
-TRUE	5	5.b.1	C050b01	5.b.1 Proportion of individuals who own a mobile telephone, by sex	Tier II	29	129	22.4806201550388	0
-TRUE	6	6.1.1	C060101	6.1.1 Proportion of population using safely managed drinking water services	Tier II	57	129	44.1860465116279	0
-TRUE	6	6.2.1	C060201	6.2.1 Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water	Tier II	127	129	98.4496124031008	1
-TRUE	6	6.3.2	C060302	6.3.2 Proportion of bodies of water with good ambient water quality	Tier II	19	129	14.7286821705426	0
-TRUE	6	6.4.2	C060402	6.4.2 Level of water stress: freshwater withdrawal as a proportion of available freshwater resources	Tier I*	127	129	98.4496124031008	1
-TRUE	6	6.5.1	C060501	6.5.1 Degree of integrated water resources management implementation (0<U+0096>100)	Tier I*	129	129	100	1
-TRUE	6	6.5.2	C060502	6.5.2 Proportion of transboundary basin area with an operational arrangement for water cooperation	Tier I*	129	129	100	1
-TRUE	6	6.6.1	C060601	6.6.1 Change in the extent of water-related ecosystems over time	Tier I*	129	129	100	1
-TRUE	6	6.a.1	C060a01	6.a.1 Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan	Tier I*	127	129	98.4496124031008	1
-TRUE	6	6.b.1	C060b01	6.b.1 Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management	Tier I*	105	129	81.3953488372093	1
-TRUE	7	7.1.1	C070101	7.1.1 Proportion of population with access to electricity	Tier I*	129	129	100	1
-TRUE	7	7.1.2	C070102	7.1.2 Proportion of population with primary reliance on clean fuels and technology	Tier I*	126	129	97.6744186046512	1
-TRUE	7	7.2.1	C070201	7.2.1 Renewable energy share in the total final energy consumption	Tier I*	129	129	100	1
-TRUE	7	7.3.1	C070301	7.3.1 Energy intensity measured in terms of primary energy and GDP	Tier I*	126	129	97.6744186046512	1
-TRUE	8	12.2.2, 8.4.2	C200203	8.4.2 Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP	Tier I*	129	129	100	1
-TRUE	8	8.1.1	C080101	8.1.1 Annual growth rate of real GDP per capita	Tier I*	129	129	100	1
-TRUE	8	8.10.1	C081001	8.10.1 (a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults	Tier I*	123	129	95.3488372093023	1
-TRUE	8	8.10.2	C081002	8.10.2 Proportion of adults (15<U+00A0>years and older) with an account at a bank or other financial institution or with a mobile-money-service provider	Tier I*	113	129	87.5968992248062	1
-TRUE	8	8.2.1	C080201	8.2.1 Annual growth rate of real GDP per employed person	Tier I*	129	129	100	1
-TRUE	8	8.3.1	C080301	8.3.1 Proportion of informal employment in non-agriculture employment, by sex	Tier II	45	129	34.8837209302326	0
-TRUE	8	8.5.1	C080501	8.5.1 Average hourly earnings of female and male employees, by occupation, age and persons with disabilities	Tier II	28	129	21.7054263565891	0
-TRUE	8	8.5.2	C080502	8.5.2 Unemployment rate, by sex, age and persons with disabilities	Tier I*	118	129	91.4728682170543	1
-TRUE	8	8.6.1	C080601	8.6.1 Proportion of youth (aged 15<U+0096>24<U+00A0>years) not in education, employment or training	Tier I*	86	129	66.6666666666667	0
-TRUE	8	8.7.1	C080701	8.7.1 Proportion and number of children aged 5<U+0096>17<U+00A0>years engaged in child labour, by sex and age	Tier II	78	129	60.4651162790698	0
-TRUE	8	8.8.1	C080801	8.8.1 Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status	Tier II	37	129	28.6821705426357	0
-TRUE	8	8.a.1	C080a01	8.a.1 Aid for Trade commitments and disbursements	Tier I*	123	129	95.3488372093023	1
-TRUE	9	9.1.2	C090102	9.1.2 Passenger and freight volumes, by mode of transport	Tier I*	128	129	99.2248062015504	1
-TRUE	9	9.2.1	C090201	9.2.1 Manufacturing value added as a proportion of GDP and per capita	Tier I*	127	129	98.4496124031008	1
-TRUE	9	9.2.2	C090202	9.2.2 Manufacturing employment as a proportion of total employment	Tier I*	108	129	83.7209302325581	1
-TRUE	9	9.3.1	C090301	9.3.1 Proportion of small-scale industries in total industry value added	Tier II	16	129	12.4031007751938	0
-TRUE	9	9.3.2	C090302	9.3.2 Proportion of small-scale industries with a loan or line of credit	Tier II	108	129	83.7209302325581	1
-TRUE	9	9.4.1	C090401	9.4.1 CO2 emission per unit of value added	Tier I*	95	129	73.6434108527132	0
-TRUE	9	9.5.1	C090501	9.5.1 Research and development expenditure as a proportion of GDP	Tier I*	87	129	67.4418604651163	0
-TRUE	9	9.5.2	C090502	9.5.2 Researchers (in full-time equivalent) per million inhabitants	Tier I*	79	129	61.2403100775194	0
-TRUE	9	9.a.1	C090a01	9.a.1 Total official international support (official development assistance plus other official flows) to infrastructure	Tier I*	127	129	98.4496124031008	1
-TRUE	9	9.b.1	C090b01	9.b.1 Proportion of medium and high-tech industry value added in total value added	Tier I*	97	129	75.1937984496124	1
-TRUE	9	9.c.1	C090c01	9.c.1 Proportion of population covered by a mobile network, by technology	Tier I*	128	129	99.2248062015504	1
-TRUE	10	10.1.1	C100101	10.1.1 Growth rates of household expenditure or income per capita among the bottom 40<U+00A0>per<U+00A0>cent of the population and the total population	Tier II	60	129	46.5116279069767	0
-TRUE	10	10.4.1	C100401	10.4.1 Labour share of GDP, comprising wages and social protection transfers	Tier II	14	129	10.8527131782946	0
-TRUE	10	10.6.1, 16.8.1	C200205	10.6.1 Proportion of members and voting rights of developing countries in international organizations	Tier I*	129	129	100	1
-TRUE	10	10.a.1	C100a01	10.a.1 Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff	Tier I*	0	129	0	0
-TRUE	10	10.b.1	C100b01	10.b.1 Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)	Tier I*	129	129	100	1
-TRUE	10	10.c.1	C100c01	10.c.1 Remittance costs as a proportion of the amount remitted	Tier II	94	129	72.8682170542636	0
-TRUE	11	1.5.1, 11.5.1, 13.1.1	C200303	1.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population	Tier II	82	129	63.5658914728682	0
-TRUE	11	1.5.2, 11.5.2	C010502	1.5.2 Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)	Tier II	82	129	63.5658914728682	0
-TRUE	11	1.5.3, 11.b.1, 13.1.2	C200304	1.5.3 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015<U+0096>2030	Tier I*	83	129	64.3410852713178	0
-TRUE	11	1.5.4, 11.b.2, 13.1.3	C200305	1.5.4 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies	Tier II	9	129	6.97674418604651	0
-TRUE	11	11.1.1	C110101	11.1.1 Proportion of urban population living in slums, informal settlements or inadequate housing	Tier I*	92	129	71.3178294573643	0
-TRUE	11	11.5.2	C110502	11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters	Tier II	82	129	63.5658914728682	0
-TRUE	11	11.6.1	C110601	11.6.1 Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities	Tier II	68	129	52.7131782945737	0
-TRUE	11	11.6.2	C110602	11.6.2 Annual mean levels of fine particulate matter (e.g.<U+00A0>PM2.5 and PM10) in cities (population weighted)	Tier I*	129	129	100	1
-TRUE	12	12.1.1	C120101	12.1.1 Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies	Tier II	47	129	36.4341085271318	0
-TRUE	12	12.2.2, 8.4.2	C200203	8.4.2 Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP	Tier I*	129	129	100	1
-TRUE	12	12.4.1	C120401	12.4.1 Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement	Tier I*	129	129	100	1
-TRUE	13	1.5.1, 11.5.1, 13.1.1	C200303	1.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population	Tier II	82	129	63.5658914728682	0
-TRUE	13	1.5.3, 11.b.1, 13.1.2	C200304	1.5.3 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015<U+0096>2030	Tier I*	83	129	64.3410852713178	0
-TRUE	13	1.5.4, 11.b.2, 13.1.3	C200305	1.5.4 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies	Tier II	9	129	6.97674418604651	0
-TRUE	14	14.4.1	C140401	14.4.1 Proportion of fish stocks within biologically sustainable levels	Tier I*	0	129	0	0
-TRUE	14	14.5.1	C140501	14.5.1 Coverage of protected areas in relation to marine areas	Tier I*	97	129	75.1937984496124	1
-TRUE	14	14.a.1	C140a01	14.a.1 Proportion of total research budget allocated to research in the field of marine technology	Tier II	10	129	7.75193798449612	0
-TRUE	15	15.1.1	C150101	15.1.1 Forest area as a proportion of total land area	Tier I*	129	129	100	1
-TRUE	15	15.1.2	C150102	15.1.2 Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type	Tier I*	126	129	97.6744186046512	1
-TRUE	15	15.2.1	C150201	15.2.1 Progress towards sustainable forest management	Tier I*	129	129	100	1
-TRUE	15	15.4.1	C150401	15.4.1 Coverage by protected areas of important sites for mountain biodiversity	Tier I*	107	129	82.9457364341085	1
-TRUE	15	15.4.2	C150402	15.4.2 Mountain Green Cover Index	Tier I*	119	129	92.2480620155039	1
-TRUE	15	15.5.1	C150501	15.5.1 Red List Index	Tier I*	129	129	100	1
-TRUE	15	15.6.1	C150601	15.6.1 Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits	Tier I*	129	129	100	1
-TRUE	15	15.a.1, 15.b.1	C200207	15.a.1 Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems	Tier I*	127	129	98.4496124031008	1
-TRUE	16	10.6.1, 16.8.1	C200205	10.6.1 Proportion of members and voting rights of developing countries in international organizations	Tier I*	129	129	100	1
-TRUE	16	16.1.1	C160101	16.1.1 Number of victims of intentional homicide per 100,000 population, by sex and age	Tier I*	123	129	95.3488372093023	1
-TRUE	16	16.10.1	C161001	16.10.1 Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12<U+00A0>months	Tier II	0	129	0	0
-TRUE	16	16.10.2	C161002	16.10.2 Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information	Tier II	73	129	56.5891472868217	0
-TRUE	16	16.2.1	C160201	16.2.1 Proportion of children aged 1<U+0096>17<U+00A0>years who experienced any physical punishment and/or psychological aggression by caregivers in the past month	Tier II	75	129	58.1395348837209	0
-TRUE	16	16.2.2	C160202	16.2.2 Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation	Tier II	45	129	34.8837209302326	0
-TRUE	16	16.2.3	C160203	16.2.3 Proportion of young women and men aged 18<U+0096>29<U+00A0>years who experienced sexual violence by age<U+00A0>18	Tier II	40	129	31.0077519379845	0
-TRUE	16	16.3.2	C160302	16.3.2 Unsentenced detainees as a proportion of overall prison population	Tier I*	78	129	60.4651162790698	0
-TRUE	16	16.5.2	C160502	16.5.2 Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12<U+00A0>months	Tier II	112	129	86.8217054263566	1
-TRUE	16	16.6.1	C160601	16.6.1 Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)	Tier I*	0	129	0	0
-TRUE	16	16.9.1	C160901	16.9.1 Proportion of children under 5<U+00A0>years of age whose births have been registered with a civil authority, by age	Tier I*	119	129	92.2480620155039	1
-TRUE	16	16.a.1	C160a01	16.a.1 Existence of independent national human rights institutions in compliance with the Paris Principles	Tier I*	129	129	100	1
-TRUE	17	17.10.1	C171001	17.10.1 Worldwide weighted tariff-average	Tier I*	0	129	0	0
-TRUE	17	17.11.1	C171101	17.11.1 Developing countries<U+0092> and least developed countries<U+0092> share of global exports	Tier I*	0	129	0	0
-TRUE	17	17.12.1	C171201	17.12.1 Average tariffs faced by developing countries, least developed countries and small island developing States	Tier I*	0	129	0	0
-TRUE	17	17.15.1	C171501	17.15.1 Extent of use of country-owned results frameworks and planning tools by providers of development cooperation	Tier II	74	129	57.3643410852713	0
-TRUE	17	17.16.1	C171601	17.16.1 Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals	Tier II	79	129	61.2403100775194	0
-TRUE	17	17.18.2	C171802	17.18.2 Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics	Tier II	45	129	34.8837209302326	0
-TRUE	17	17.18.3	C171803	17.18.3 Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding	Tier I*	70	129	54.2635658914729	0
-TRUE	17	17.19.1	C171901	17.19.1 Dollar value of all resources made available to strengthen statistical capacity in developing countries	Tier I*	127	129	98.4496124031008	1
-TRUE	17	17.19.2	C171902	17.19.2 Proportion of countries that (a) have conducted at least one population and housing census in the last 10<U+00A0>years; and (b) have achieved 100<U+00A0>per<U+00A0>cent birth registration and 80<U+00A0>per<U+00A0>cent death registration	Tier I*	118	129	91.4728682170543	1
-TRUE	17	17.2.1	C170201	17.2.1 Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors<U+0092> gross national income (GNI)	Tier I*	0	129	0	0
-TRUE	17	17.3.2	C170302	17.3.2 Volume of remittances (in United States dollars) as a proportion of total GDP	Tier I*	119	129	92.2480620155039	1
-TRUE	17	17.4.1	C170401	17.4.1 Debt service as a proportion of exports of goods and services	Tier I*	107	129	82.9457364341085	1
-TRUE	17	17.6.2	C170602	17.6.2 Fixed Internet broadband subscriptions per 100 inhabitants, by speed	Tier I*	127	129	98.4496124031008	1
-TRUE	17	17.8.1	C170801	17.8.1 Proportion of individuals using the Internet	Tier I*	128	129	99.2248062015504	1
-TRUE	17	17.9.1	C170901	17.9.1 Dollar value of financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to developing countries	Tier I*	127	129	98.4496124031008	1
-FALSE	1	1.1.1	C010101	1.1.1 Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)	Tier I*	44	64	68.75	0
-FALSE	1	1.2.1	C010201	1.2.1 Proportion of population living below the national poverty line, by sex and age	Tier I*	20	64	31.25	0
-FALSE	1	1.3.1	C010301	1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable	Tier II	40	64	62.5	0
-FALSE	1	1.3.1 (dupl)	C010301	1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable	Tier II	59	64	92.1875	1
-FALSE	1	1.5.1, 11.5.1, 13.1.1	C200303	1.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population	Tier II	31	64	48.4375	0
-FALSE	1	1.5.2, 11.5.2	C010502	1.5.2 Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)	Tier II	31	64	48.4375	0
-FALSE	1	1.5.3, 11.b.1, 13.1.2	C200304	1.5.3 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015<U+0096>2030	Tier I*	35	64	54.6875	0
-FALSE	1	1.5.4, 11.b.2, 13.1.3	C200305	1.5.4 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies	Tier II	6	64	9.375	0
-FALSE	1	1.a.2	C010a02	1.a.2 Proportion of total government spending on essential services (education, health and social protection)	Tier II	60	64	93.75	1
-FALSE	2	2.1.1	C020101	2.1.1 Prevalence of undernourishment	Tier I*	50	64	78.125	1
-FALSE	2	2.1.2	C020102	2.1.2 Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)	Tier II	27	64	42.1875	0
-FALSE	2	2.2.1	C020201	2.2.1 Prevalence of stunting (height for age &lt;-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5<U+00A0>years of age	Tier I*	18	64	28.125	0
-FALSE	2	2.2.2	C020202	2.2.2 Prevalence of malnutrition (weight for height &gt;+2 or &lt;-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5<U+00A0>years of age, by type (wasting and overweight)	Tier I*	19	64	29.6875	0
-FALSE	2	2.5.1	C020501	2.5.1 Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities	Tier I*	54	64	84.375	1
-FALSE	2	2.5.2	C020502	2.5.2 Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction	Tier I*	52	64	81.25	1
-FALSE	2	2.a.1	C020a01	2.a.1 The agriculture orientation index for government expenditures	Tier I*	48	64	75	1
-FALSE	2	2.a.2	C020a02	2.a.2 Total official flows (official development assistance plus other official flows) to the agriculture sector	Tier I*	19	64	29.6875	0
-FALSE	2	2.b.1	C020b02	2.b.1 Agricultural export subsidies	Tier I*	0	64	0	0
-FALSE	2	2.c.1	C020c01	2.c.1 Indicator of food price anomalies	Tier II	4	64	6.25	0
-FALSE	3	3.1.1	C030101	3.1.1 Maternal mortality ratio	Tier I*	52	64	81.25	1
-FALSE	3	3.1.2	C030102	3.1.2 Proportion of births attended by skilled health personnel	Tier I*	52	64	81.25	1
-FALSE	3	3.2.1	C030201	3.2.1 Under-5 mortality rate	Tier I*	63	64	98.4375	1
-FALSE	3	3.2.2	C030202	3.2.2 Neonatal mortality rate	Tier I*	63	64	98.4375	1
-FALSE	3	3.3.1	C030301	3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations	Tier I*	19	64	29.6875	0
-FALSE	3	3.3.2	C030302	3.3.2 Tuberculosis incidence per 100,000 population	Tier I*	63	64	98.4375	1
-FALSE	3	3.3.3	C030303	3.3.3 Malaria incidence per 1,000 population	Tier I*	3	64	4.6875	0
-FALSE	3	3.3.4	C030304	3.3.4 Hepatitis B incidence per 100,000 population	Tier I*	63	64	98.4375	1
-FALSE	3	3.3.5	C030305	3.3.5 Number of people requiring interventions against neglected tropical diseases	Tier I*	63	64	98.4375	1
-FALSE	3	3.4.1	C030401	3.4.1 Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease	Tier I*	54	64	84.375	1
-FALSE	3	3.4.2	C030402	3.4.2 Suicide mortality rate	Tier I*	54	64	84.375	1
-FALSE	3	3.5.2	C030502	3.5.2 Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15<U+00A0>years and older) within a calendar year in litres of pure alcohol	Tier I*	59	64	92.1875	1
-FALSE	3	3.6.1	C030601	3.6.1 Death rate due to road traffic injuries	Tier I*	63	64	98.4375	1
-FALSE	3	3.7.1	C030701	3.7.1 Proportion of women of reproductive age (aged 15<U+0096>49<U+00A0>years) who have their need for family planning satisfied with modern methods	Tier I*	15	64	23.4375	0
-FALSE	3	3.7.2	C030702	3.7.2 Adolescent birth rate (aged 10<U+0096>14 years; aged 15<U+0096>19<U+00A0>years) per 1,000 women in that age group	Tier I*	63	64	98.4375	1
-FALSE	3	3.8.1	C030801	3.8.1 Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)	Tier I*	54	64	84.375	1
-FALSE	3	3.8.2	C030802	3.8.2 Proportion of population with large household expenditures on health as a share of total household expenditure or income	Tier I*	31	64	48.4375	0
-FALSE	3	3.9.1	C030901	3.9.1 Mortality rate attributed to household and ambient air pollution	Tier I*	63	64	98.4375	1
-FALSE	3	3.9.2	C030902	3.9.2 Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)	Tier I*	54	64	84.375	1
-FALSE	3	3.9.3	C030903	3.9.3 Mortality rate attributed to unintentional poisoning	Tier I*	54	64	84.375	1
-FALSE	3	3.a.1	C030a01	3.a.1 Age-standardized prevalence of current tobacco use among persons aged 15<U+00A0>years and older	Tier I*	51	64	79.6875	1
-FALSE	3	3.b.1	C030b01	3.b.1 Proportion of the target population covered by all vaccines included in their national programme	Tier I*	63	64	98.4375	1
-FALSE	3	3.b.2	C030b02	3.b.2 Total net official development assistance to medical research and basic health sectors	Tier I*	18	64	28.125	0
-FALSE	3	3.c.1	C030c01	3.c.1 Health worker density and distribution	Tier I*	62	64	96.875	1
-FALSE	3	3.d.1	C030d01	3.d.1 International Health Regulations (IHR) capacity and health emergency preparedness	Tier I*	63	64	98.4375	1
-FALSE	4	4.1.1	C040101	4.1.1 Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex	Tier II	44	64	68.75	0
-FALSE	4	4.2.1	C040201	4.2.1 Proportion of children under 5<U+00A0>years of age who are developmentally on track in health, learning and psychosocial well-being, by sex	Tier III	3	64	4.6875	0
-FALSE	4	4.2.2	C040202	4.2.2 Participation rate in organized learning (one year before the official primary entry age), by sex	Tier I*	52	64	81.25	1
-FALSE	4	4.3.1	C040301	4.3.1 Participation rate of youth and adults in formal and non-formal education and training in the previous 12<U+00A0>months, by sex	Tier II	39	64	60.9375	0
-FALSE	4	4.4.1	C040401	4.4.1 Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill	Tier II	36	64	56.25	0
-FALSE	4	4.5.1	C040501	4.5.1 Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated	Tier I*	63	64	98.4375	1
-FALSE	4	4.6.1	C040601	4.6.1 Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex	Tier II	28	64	43.75	0
-FALSE	4	4.a.1	C040a01	4.a.1 Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g)<U+00A0>basic handwashing facilities (as per the WASH indicator definitions)	Tier II	36	64	56.25	0
-FALSE	4	4.b.1	C040b01	4.b.1 Volume of official development assistance flows for scholarships by sector and type of study	Tier I*	18	64	28.125	0
-FALSE	4	4.c.1	C040c01	4.c.1 Proportion of teachers in: (a) pre-primary; (b)<U+00A0>primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country	Tier II	20	64	31.25	0
-FALSE	5	5.2.1	C050201	5.2.1 Proportion of ever-partnered women and girls aged 15<U+00A0>years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age	Tier II	34	64	53.125	0
-FALSE	5	5.3.1	C050301	5.3.1 Proportion of women aged 20<U+0096>24<U+00A0>years who were married or in a union before age 15 and before age 18	Tier II	9	64	14.0625	0
-FALSE	5	5.3.2	C050302	5.3.2 Proportion of girls and women aged 15<U+0096>49<U+00A0>years who have undergone female genital mutilation/cutting, by<U+00A0>age	Tier II	0	64	0	0
-FALSE	5	5.4.1	C050401	5.4.1 Proportion of time spent on unpaid domestic and care work, by sex, age and location	Tier II	35	64	54.6875	0
-FALSE	5	5.5.1	C050501	5.5.1 Proportion of seats held by women in (a) national parliaments and (b) local governments	Tier I*	64	64	100	1
-FALSE	5	5.5.2	C050502	5.5.2 Proportion of women in managerial positions	Tier I*	53	64	82.8125	1
-FALSE	5	5.6.1	C050601	5.6.1 Proportion of women aged 15<U+0096>49<U+00A0>years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care	Tier II	0	64	0	0
-FALSE	5	5.b.1	C050b01	5.b.1 Proportion of individuals who own a mobile telephone, by sex	Tier II	14	64	21.875	0
-FALSE	6	6.1.1	C060101	6.1.1 Proportion of population using safely managed drinking water services	Tier II	43	64	67.1875	0
-FALSE	6	6.2.1	C060201	6.2.1 Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water	Tier II	63	64	98.4375	1
-FALSE	6	6.3.2	C060302	6.3.2 Proportion of bodies of water with good ambient water quality	Tier II	19	64	29.6875	0
-FALSE	6	6.4.2	C060402	6.4.2 Level of water stress: freshwater withdrawal as a proportion of available freshwater resources	Tier I*	53	64	82.8125	1
-FALSE	6	6.5.1	C060501	6.5.1 Degree of integrated water resources management implementation (0<U+0096>100)	Tier I*	64	64	100	1
-FALSE	6	6.5.2	C060502	6.5.2 Proportion of transboundary basin area with an operational arrangement for water cooperation	Tier I*	64	64	100	1
-FALSE	6	6.6.1	C060601	6.6.1 Change in the extent of water-related ecosystems over time	Tier I*	64	64	100	1
-FALSE	6	6.a.1	C060a01	6.a.1 Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan	Tier I*	19	64	29.6875	0
-FALSE	6	6.b.1	C060b01	6.b.1 Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management	Tier I*	7	64	10.9375	0
-FALSE	7	7.1.1	C070101	7.1.1 Proportion of population with access to electricity	Tier I*	64	64	100	1
-FALSE	7	7.1.2	C070102	7.1.2 Proportion of population with primary reliance on clean fuels and technology	Tier I*	63	64	98.4375	1
-FALSE	7	7.2.1	C070201	7.2.1 Renewable energy share in the total final energy consumption	Tier I*	62	64	96.875	1
-FALSE	7	7.3.1	C070301	7.3.1 Energy intensity measured in terms of primary energy and GDP	Tier I*	57	64	89.0625	1
-FALSE	8	12.2.2, 8.4.2	C200203	8.4.2 Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP	Tier I*	56	64	87.5	1
-FALSE	8	8.1.1	C080101	8.1.1 Annual growth rate of real GDP per capita	Tier I*	64	64	100	1
-FALSE	8	8.10.1	C081001	8.10.1 (a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults	Tier I*	59	64	92.1875	1
-FALSE	8	8.10.2	C081002	8.10.2 Proportion of adults (15<U+00A0>years and older) with an account at a bank or other financial institution or with a mobile-money-service provider	Tier I*	41	64	64.0625	0
-FALSE	8	8.2.1	C080201	8.2.1 Annual growth rate of real GDP per employed person	Tier I*	49	64	76.5625	1
-FALSE	8	8.3.1	C080301	8.3.1 Proportion of informal employment in non-agriculture employment, by sex	Tier II	1	64	1.5625	0
-FALSE	8	8.5.1	C080501	8.5.1 Average hourly earnings of female and male employees, by occupation, age and persons with disabilities	Tier II	35	64	54.6875	0
-FALSE	8	8.5.2	C080502	8.5.2 Unemployment rate, by sex, age and persons with disabilities	Tier I*	59	64	92.1875	1
-FALSE	8	8.6.1	C080601	8.6.1 Proportion of youth (aged 15<U+0096>24<U+00A0>years) not in education, employment or training	Tier I*	41	64	64.0625	0
-FALSE	8	8.7.1	C080701	8.7.1 Proportion and number of children aged 5<U+0096>17<U+00A0>years engaged in child labour, by sex and age	Tier II	2	64	3.125	0
-FALSE	8	8.8.1	C080801	8.8.1 Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status	Tier II	39	64	60.9375	0
-FALSE	8	8.a.1	C080a01	8.a.1 Aid for Trade commitments and disbursements	Tier I*	44	64	68.75	0
-FALSE	9	9.1.2	C090102	9.1.2 Passenger and freight volumes, by mode of transport	Tier I*	61	64	95.3125	1
-FALSE	9	9.2.1	C090201	9.2.1 Manufacturing value added as a proportion of GDP and per capita	Tier I*	62	64	96.875	1
-FALSE	9	9.2.2	C090202	9.2.2 Manufacturing employment as a proportion of total employment	Tier I*	51	64	79.6875	1
-FALSE	9	9.3.1	C090301	9.3.1 Proportion of small-scale industries in total industry value added	Tier II	36	64	56.25	0
-FALSE	9	9.3.2	C090302	9.3.2 Proportion of small-scale industries with a loan or line of credit	Tier II	25	64	39.0625	0
-FALSE	9	9.4.1	C090401	9.4.1 CO2 emission per unit of value added	Tier I*	43	64	67.1875	0
-FALSE	9	9.5.1	C090501	9.5.1 Research and development expenditure as a proportion of GDP	Tier I*	46	64	71.875	0
-FALSE	9	9.5.2	C090502	9.5.2 Researchers (in full-time equivalent) per million inhabitants	Tier I*	44	64	68.75	0
-FALSE	9	9.a.1	C090a01	9.a.1 Total official international support (official development assistance plus other official flows) to infrastructure	Tier I*	20	64	31.25	0
-FALSE	9	9.b.1	C090b01	9.b.1 Proportion of medium and high-tech industry value added in total value added	Tier I*	46	64	71.875	0
-FALSE	9	9.c.1	C090c01	9.c.1 Proportion of population covered by a mobile network, by technology	Tier I*	63	64	98.4375	1
-FALSE	10	10.1.1	C100101	10.1.1 Growth rates of household expenditure or income per capita among the bottom 40<U+00A0>per<U+00A0>cent of the population and the total population	Tier II	33	64	51.5625	0
-FALSE	10	10.4.1	C100401	10.4.1 Labour share of GDP, comprising wages and social protection transfers	Tier II	39	64	60.9375	0
-FALSE	10	10.6.1, 16.8.1	C200205	10.6.1 Proportion of members and voting rights of developing countries in international organizations	Tier I*	64	64	100	1
-FALSE	10	10.a.1	C100a01	10.a.1 Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff	Tier I*	0	64	0	0
-FALSE	10	10.b.1	C100b01	10.b.1 Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)	Tier I*	57	64	89.0625	1
-FALSE	10	10.c.1	C100c01	10.c.1 Remittance costs as a proportion of the amount remitted	Tier II	10	64	15.625	0
-FALSE	11	1.5.1, 11.5.1, 13.1.1	C200303	1.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population	Tier II	31	64	48.4375	0
-FALSE	11	1.5.2, 11.5.2	C010502	1.5.2 Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)	Tier II	31	64	48.4375	0
-FALSE	11	1.5.3, 11.b.1, 13.1.2	C200304	1.5.3 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015<U+0096>2030	Tier I*	35	64	54.6875	0
-FALSE	11	1.5.4, 11.b.2, 13.1.3	C200305	1.5.4 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies	Tier II	6	64	9.375	0
-FALSE	11	11.1.1	C110101	11.1.1 Proportion of urban population living in slums, informal settlements or inadequate housing	Tier I*	2	64	3.125	0
-FALSE	11	11.5.2	C110502	11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters	Tier II	31	64	48.4375	0
-FALSE	11	11.6.1	C110601	11.6.1 Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities	Tier II	30	64	46.875	0
-FALSE	11	11.6.2	C110602	11.6.2 Annual mean levels of fine particulate matter (e.g.<U+00A0>PM2.5 and PM10) in cities (population weighted)	Tier I*	63	64	98.4375	1
-FALSE	12	12.1.1	C120101	12.1.1 Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies	Tier II	23	64	35.9375	0
-FALSE	12	12.2.2, 8.4.2	C200203	8.4.2 Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP	Tier I*	56	64	87.5	1
-FALSE	12	12.4.1	C120401	12.4.1 Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement	Tier I*	64	64	100	1
-FALSE	13	1.5.1, 11.5.1, 13.1.1	C200303	1.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population	Tier II	31	64	48.4375	0
-FALSE	13	1.5.3, 11.b.1, 13.1.2	C200304	1.5.3 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015<U+0096>2030	Tier I*	35	64	54.6875	0
-FALSE	13	1.5.4, 11.b.2, 13.1.3	C200305	1.5.4 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies	Tier II	6	64	9.375	0
-FALSE	14	14.4.1	C140401	14.4.1 Proportion of fish stocks within biologically sustainable levels	Tier I*	0	64	0	0
-FALSE	14	14.5.1	C140501	14.5.1 Coverage of protected areas in relation to marine areas	Tier I*	55	64	85.9375	1
-FALSE	14	14.a.1	C140a01	14.a.1 Proportion of total research budget allocated to research in the field of marine technology	Tier II	15	64	23.4375	0
-FALSE	15	15.1.1	C150101	15.1.1 Forest area as a proportion of total land area	Tier I*	64	64	100	1
-FALSE	15	15.1.2	C150102	15.1.2 Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type	Tier I*	60	64	93.75	1
-FALSE	15	15.2.1	C150201	15.2.1 Progress towards sustainable forest management	Tier I*	64	64	100	1
-FALSE	15	15.4.1	C150401	15.4.1 Coverage by protected areas of important sites for mountain biodiversity	Tier I*	39	64	60.9375	0
-FALSE	15	15.4.2	C150402	15.4.2 Mountain Green Cover Index	Tier I*	42	64	65.625	0
-FALSE	15	15.5.1	C150501	15.5.1 Red List Index	Tier I*	64	64	100	1
-FALSE	15	15.6.1	C150601	15.6.1 Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits	Tier I*	64	64	100	1
-FALSE	15	15.a.1, 15.b.1	C200207	15.a.1 Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems	Tier I*	46	64	71.875	0
-FALSE	16	10.6.1, 16.8.1	C200205	10.6.1 Proportion of members and voting rights of developing countries in international organizations	Tier I*	64	64	100	1
-FALSE	16	16.1.1	C160101	16.1.1 Number of victims of intentional homicide per 100,000 population, by sex and age	Tier I*	62	64	96.875	1
-FALSE	16	16.10.1	C161001	16.10.1 Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12<U+00A0>months	Tier II	0	64	0	0
-FALSE	16	16.10.2	C161002	16.10.2 Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information	Tier II	42	64	65.625	0
-FALSE	16	16.2.1	C160201	16.2.1 Proportion of children aged 1<U+0096>17<U+00A0>years who experienced any physical punishment and/or psychological aggression by caregivers in the past month	Tier II	5	64	7.8125	0
-FALSE	16	16.2.2	C160202	16.2.2 Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation	Tier II	34	64	53.125	0
-FALSE	16	16.2.3	C160203	16.2.3 Proportion of young women and men aged 18<U+0096>29<U+00A0>years who experienced sexual violence by age<U+00A0>18	Tier II	0	64	0	0
-FALSE	16	16.3.2	C160302	16.3.2 Unsentenced detainees as a proportion of overall prison population	Tier I*	54	64	84.375	1
-FALSE	16	16.5.2	C160502	16.5.2 Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12<U+00A0>months	Tier II	25	64	39.0625	0
-FALSE	16	16.6.1	C160601	16.6.1 Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)	Tier I*	0	64	0	0
-FALSE	16	16.9.1	C160901	16.9.1 Proportion of children under 5<U+00A0>years of age whose births have been registered with a civil authority, by age	Tier I*	49	64	76.5625	1
-FALSE	16	16.a.1	C160a01	16.a.1 Existence of independent national human rights institutions in compliance with the Paris Principles	Tier I*	64	64	100	1
-FALSE	17	17.10.1	C171001	17.10.1 Worldwide weighted tariff-average	Tier I*	0	64	0	0
-FALSE	17	17.11.1	C171101	17.11.1 Developing countries<U+0092> and least developed countries<U+0092> share of global exports	Tier I*	0	64	0	0
-FALSE	17	17.12.1	C171201	17.12.1 Average tariffs faced by developing countries, least developed countries and small island developing States	Tier I*	0	64	0	0
-FALSE	17	17.15.1	C171501	17.15.1 Extent of use of country-owned results frameworks and planning tools by providers of development cooperation	Tier II	39	64	60.9375	0
-FALSE	17	17.16.1	C171601	17.16.1 Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals	Tier II	39	64	60.9375	0
-FALSE	17	17.18.2	C171802	17.18.2 Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics	Tier II	47	64	73.4375	0
-FALSE	17	17.18.3	C171803	17.18.3 Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding	Tier I*	36	64	56.25	0
-FALSE	17	17.19.1	C171901	17.19.1 Dollar value of all resources made available to strengthen statistical capacity in developing countries	Tier I*	19	64	29.6875	0
-FALSE	17	17.19.2	C171902	17.19.2 Proportion of countries that (a) have conducted at least one population and housing census in the last 10<U+00A0>years; and (b) have achieved 100<U+00A0>per<U+00A0>cent birth registration and 80<U+00A0>per<U+00A0>cent death registration	Tier I*	64	64	100	1
-FALSE	17	17.2.1	C170201	17.2.1 Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors<U+0092> gross national income (GNI)	Tier I*	29	64	45.3125	0
-FALSE	17	17.3.2	C170302	17.3.2 Volume of remittances (in United States dollars) as a proportion of total GDP	Tier I*	56	64	87.5	1
-FALSE	17	17.4.1	C170401	17.4.1 Debt service as a proportion of exports of goods and services	Tier I*	12	64	18.75	0
-FALSE	17	17.6.2	C170602	17.6.2 Fixed Internet broadband subscriptions per 100 inhabitants, by speed	Tier I*	64	64	100	1
-FALSE	17	17.8.1	C170801	17.8.1 Proportion of individuals using the Internet	Tier I*	64	64	100	1
-FALSE	17	17.9.1	C170901	17.9.1 Dollar value of financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to developing countries	Tier I*	20	64	31.25	0
+TRUE						0	1	0	0
+TRUE	1	1.1.1	C010101	1.1.1 Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)	Tier I*	119	130	91.5384615384615	1
+TRUE	1	1.2.1	C010201	1.2.1 Proportion of population living below the national poverty line, by sex and age	Tier I*	114	130	87.6923076923077	1
+TRUE	1	1.3.1	C010301	1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable	Tier II	117	130	90	1
+TRUE	1	1.5.1, 11.5.1, 13.1.1	C200303	1.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population	Tier II	83	130	63.8461538461538	0
+TRUE	1	1.5.2, 11.5.2	C010502	1.5.2 Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)	Tier II	83	130	63.8461538461538	0
+TRUE	1	1.5.3, 11.b.1, 13.1.2	C200304	1.5.3 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015<U+0096>2030	Tier I*	84	130	64.6153846153846	0
+TRUE	1	1.5.4, 11.b.2, 13.1.3	C200305	1.5.4 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies	Tier II	9	130	6.92307692307692	0
+TRUE	1	1.a.2	C010a02	1.a.2 Proportion of total government spending on essential services (education, health and social protection)	Tier II	114	130	87.6923076923077	1
+TRUE	2	2.1.1	C020101	2.1.1 Prevalence of undernourishment	Tier I*	117	130	90	1
+TRUE	2	2.1.2	C020102	2.1.2 Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)	Tier II	30	130	23.0769230769231	0
+TRUE	2	2.2.1	C020201	2.2.1 Prevalence of stunting (height for age &lt;-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5<U+00A0>years of age	Tier I*	126	130	96.9230769230769	1
+TRUE	2	2.2.2	C020202	2.2.2 Prevalence of malnutrition (weight for height &gt;+2 or &lt;-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5<U+00A0>years of age, by type (wasting and overweight)	Tier I*	126	130	96.9230769230769	1
+TRUE	2	2.5.1	C020501	2.5.1 Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities	Tier I*	126	130	96.9230769230769	1
+TRUE	2	2.5.2	C020502	2.5.2 Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction	Tier I*	120	130	92.3076923076923	1
+TRUE	2	2.a.1	C020a01	2.a.1 The agriculture orientation index for government expenditures	Tier I*	90	130	69.2307692307692	0
+TRUE	2	2.a.2	C020a02	2.a.2 Total official flows (official development assistance plus other official flows) to the agriculture sector	Tier I*	128	130	98.4615384615385	1
+TRUE	2	2.b.1	C020b02	2.b.1 Agricultural export subsidies	Tier I*	0	130	0	0
+TRUE	2	2.c.1	C020c01	2.c.1 Indicator of food price anomalies	Tier II	75	130	57.6923076923077	0
+TRUE	3	3.1.1	C030101	3.1.1 Maternal mortality ratio	Tier I*	130	130	100	1
+TRUE	3	3.1.2	C030102	3.1.2 Proportion of births attended by skilled health personnel	Tier I*	130	130	100	1
+TRUE	3	3.2.1	C030201	3.2.1 Under-5 mortality rate	Tier I*	130	130	100	1
+TRUE	3	3.2.2	C030202	3.2.2 Neonatal mortality rate	Tier I*	130	130	100	1
+TRUE	3	3.3.1	C030301	3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations	Tier I*	112	130	86.1538461538462	1
+TRUE	3	3.3.2	C030302	3.3.2 Tuberculosis incidence per 100,000 population	Tier I*	130	130	100	1
+TRUE	3	3.3.3	C030303	3.3.3 Malaria incidence per 1,000 population	Tier I*	96	130	73.8461538461539	0
+TRUE	3	3.3.4	C030304	3.3.4 Hepatitis B incidence per 100,000 population	Tier I*	129	130	99.2307692307692	1
+TRUE	3	3.3.5	C030305	3.3.5 Number of people requiring interventions against neglected tropical diseases	Tier I*	129	130	99.2307692307692	1
+TRUE	3	3.4.1	C030401	3.4.1 Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease	Tier I*	129	130	99.2307692307692	1
+TRUE	3	3.4.2	C030402	3.4.2 Suicide mortality rate	Tier I*	129	130	99.2307692307692	1
+TRUE	3	3.5.2	C030502	3.5.2 Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15<U+00A0>years and older) within a calendar year in litres of pure alcohol	Tier I*	128	130	98.4615384615385	1
+TRUE	3	3.6.1	C030601	3.6.1 Death rate due to road traffic injuries	Tier I*	130	130	100	1
+TRUE	3	3.7.1	C030701	3.7.1 Proportion of women of reproductive age (aged 15<U+0096>49<U+00A0>years) who have their need for family planning satisfied with modern methods	Tier I*	116	130	89.2307692307692	1
+TRUE	3	3.7.2	C030702	3.7.2 Adolescent birth rate (aged 10<U+0096>14 years; aged 15<U+0096>19<U+00A0>years) per 1,000 women in that age group	Tier I*	130	130	100	1
+TRUE	3	3.8.1	C030801	3.8.1 Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)	Tier I*	129	130	99.2307692307692	1
+TRUE	3	3.8.2	C030802	3.8.2 Proportion of population with large household expenditures on health as a share of total household expenditure or income	Tier I*	87	130	66.9230769230769	0
+TRUE	3	3.9.1	C030901	3.9.1 Mortality rate attributed to household and ambient air pollution	Tier I*	129	130	99.2307692307692	1
+TRUE	3	3.9.2	C030902	3.9.2 Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)	Tier I*	129	130	99.2307692307692	1
+TRUE	3	3.9.3	C030903	3.9.3 Mortality rate attributed to unintentional poisoning	Tier I*	129	130	99.2307692307692	1
+TRUE	3	3.a.1	C030a01	3.a.1 Age-standardized prevalence of current tobacco use among persons aged 15<U+00A0>years and older	Tier I*	95	130	73.0769230769231	0
+TRUE	3	3.b.1	C030b01	3.b.1 Proportion of the target population covered by all vaccines included in their national programme	Tier I*	130	130	100	1
+TRUE	3	3.b.2	C030b02	3.b.2 Total net official development assistance to medical research and basic health sectors	Tier I*	128	130	98.4615384615385	1
+TRUE	3	3.c.1	C030c01	3.c.1 Health worker density and distribution	Tier I*	127	130	97.6923076923077	1
+TRUE	3	3.d.1	C030d01	3.d.1 International Health Regulations (IHR) capacity and health emergency preparedness	Tier I*	129	130	99.2307692307692	1
+TRUE	4	4.1.1	C040101	4.1.1 Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex	Tier II	85	130	65.3846153846154	0
+TRUE	4	4.2.1	C040201	4.2.1 Proportion of children under 5<U+00A0>years of age who are developmentally on track in health, learning and psychosocial well-being, by sex	Tier III	63	130	48.4615384615385	0
+TRUE	4	4.2.2	C040202	4.2.2 Participation rate in organized learning (one year before the official primary entry age), by sex	Tier I*	102	130	78.4615384615385	1
+TRUE	4	4.3.1	C040301	4.3.1 Participation rate of youth and adults in formal and non-formal education and training in the previous 12<U+00A0>months, by sex	Tier II	4	130	3.07692307692308	0
+TRUE	4	4.4.1	C040401	4.4.1 Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill	Tier II	25	130	19.2307692307692	0
+TRUE	4	4.5.1	C040501	4.5.1 Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated	Tier I*	124	130	95.3846153846154	1
+TRUE	4	4.6.1	C040601	4.6.1 Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex	Tier II	10	130	7.69230769230769	0
+TRUE	4	4.a.1	C040a01	4.a.1 Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g)<U+00A0>basic handwashing facilities (as per the WASH indicator definitions)	Tier II	75	130	57.6923076923077	0
+TRUE	4	4.b.1	C040b01	4.b.1 Volume of official development assistance flows for scholarships by sector and type of study	Tier I*	127	130	97.6923076923077	1
+TRUE	4	4.c.1	C040c01	4.c.1 Proportion of teachers in: (a) pre-primary; (b)<U+00A0>primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country	Tier II	111	130	85.3846153846154	1
+TRUE	5	5.2.1	C050201	5.2.1 Proportion of ever-partnered women and girls aged 15<U+00A0>years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age	Tier II	54	130	41.5384615384615	0
+TRUE	5	5.3.1	C050301	5.3.1 Proportion of women aged 20<U+0096>24<U+00A0>years who were married or in a union before age 15 and before age 18	Tier II	116	130	89.2307692307692	1
+TRUE	5	5.3.2	C050302	5.3.2 Proportion of girls and women aged 15<U+0096>49<U+00A0>years who have undergone female genital mutilation/cutting, by<U+00A0>age	Tier II	29	130	22.3076923076923	0
+TRUE	5	5.4.1	C050401	5.4.1 Proportion of time spent on unpaid domestic and care work, by sex, age and location	Tier II	53	130	40.7692307692308	0
+TRUE	5	5.5.1	C050501	5.5.1 Proportion of seats held by women in (a) national parliaments and (b) local governments	Tier I*	129	130	99.2307692307692	1
+TRUE	5	5.5.2	C050502	5.5.2 Proportion of women in managerial positions	Tier I*	97	130	74.6153846153846	0
+TRUE	5	5.6.1	C050601	5.6.1 Proportion of women aged 15<U+0096>49<U+00A0>years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care	Tier II	47	130	36.1538461538462	0
+TRUE	5	5.b.1	C050b01	5.b.1 Proportion of individuals who own a mobile telephone, by sex	Tier II	30	130	23.0769230769231	0
+TRUE	6	6.1.1	C060101	6.1.1 Proportion of population using safely managed drinking water services	Tier II	57	130	43.8461538461538	0
+TRUE	6	6.2.1	C060201	6.2.1 Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water	Tier II	128	130	98.4615384615385	1
+TRUE	6	6.3.2	C060302	6.3.2 Proportion of bodies of water with good ambient water quality	Tier II	19	130	14.6153846153846	0
+TRUE	6	6.4.2	C060402	6.4.2 Level of water stress: freshwater withdrawal as a proportion of available freshwater resources	Tier I*	128	130	98.4615384615385	1
+TRUE	6	6.5.1	C060501	6.5.1 Degree of integrated water resources management implementation (0<U+0096>100)	Tier I*	129	130	99.2307692307692	1
+TRUE	6	6.5.2	C060502	6.5.2 Proportion of transboundary basin area with an operational arrangement for water cooperation	Tier I*	130	130	100	1
+TRUE	6	6.6.1	C060601	6.6.1 Change in the extent of water-related ecosystems over time	Tier I*	129	130	99.2307692307692	1
+TRUE	6	6.a.1	C060a01	6.a.1 Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan	Tier I*	128	130	98.4615384615385	1
+TRUE	6	6.b.1	C060b01	6.b.1 Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management	Tier I*	106	130	81.5384615384615	1
+TRUE	7	7.1.1	C070101	7.1.1 Proportion of population with access to electricity	Tier I*	130	130	100	1
+TRUE	7	7.1.2	C070102	7.1.2 Proportion of population with primary reliance on clean fuels and technology	Tier I*	126	130	96.9230769230769	1
+TRUE	7	7.2.1	C070201	7.2.1 Renewable energy share in the total final energy consumption	Tier I*	130	130	100	1
+TRUE	7	7.3.1	C070301	7.3.1 Energy intensity measured in terms of primary energy and GDP	Tier I*	126	130	96.9230769230769	1
+TRUE	8	12.2.2, 8.4.2	C200203	8.4.2 Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP	Tier I*	129	130	99.2307692307692	1
+TRUE	8	8.1.1	C080101	8.1.1 Annual growth rate of real GDP per capita	Tier I*	130	130	100	1
+TRUE	8	8.10.1	C081001	8.10.1 (a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults	Tier I*	124	130	95.3846153846154	1
+TRUE	8	8.10.2	C081002	8.10.2 Proportion of adults (15<U+00A0>years and older) with an account at a bank or other financial institution or with a mobile-money-service provider	Tier I*	114	130	87.6923076923077	1
+TRUE	8	8.2.1	C080201	8.2.1 Annual growth rate of real GDP per employed person	Tier I*	130	130	100	1
+TRUE	8	8.3.1	C080301	8.3.1 Proportion of informal employment in non-agriculture employment, by sex	Tier II	45	130	34.6153846153846	0
+TRUE	8	8.5.1	C080501	8.5.1 Average hourly earnings of female and male employees, by occupation, age and persons with disabilities	Tier II	28	130	21.5384615384615	0
+TRUE	8	8.5.2	C080502	8.5.2 Unemployment rate, by sex, age and persons with disabilities	Tier I*	119	130	91.5384615384615	1
+TRUE	8	8.6.1	C080601	8.6.1 Proportion of youth (aged 15<U+0096>24<U+00A0>years) not in education, employment or training	Tier I*	87	130	66.9230769230769	0
+TRUE	8	8.7.1	C080701	8.7.1 Proportion and number of children aged 5<U+0096>17<U+00A0>years engaged in child labour, by sex and age	Tier II	79	130	60.7692307692308	0
+TRUE	8	8.8.1	C080801	8.8.1 Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status	Tier II	38	130	29.2307692307692	0
+TRUE	8	8.a.1	C080a01	8.a.1 Aid for Trade commitments and disbursements	Tier I*	124	130	95.3846153846154	1
+TRUE	9	9.1.2	C090102	9.1.2 Passenger and freight volumes, by mode of transport	Tier I*	128	130	98.4615384615385	1
+TRUE	9	9.2.1	C090201	9.2.1 Manufacturing value added as a proportion of GDP and per capita	Tier I*	128	130	98.4615384615385	1
+TRUE	9	9.2.2	C090202	9.2.2 Manufacturing employment as a proportion of total employment	Tier I*	109	130	83.8461538461539	1
+TRUE	9	9.3.1	C090301	9.3.1 Proportion of small-scale industries in total industry value added	Tier II	16	130	12.3076923076923	0
+TRUE	9	9.3.2	C090302	9.3.2 Proportion of small-scale industries with a loan or line of credit	Tier II	108	130	83.0769230769231	1
+TRUE	9	9.4.1	C090401	9.4.1 CO2 emission per unit of value added	Tier I*	95	130	73.0769230769231	0
+TRUE	9	9.5.1	C090501	9.5.1 Research and development expenditure as a proportion of GDP	Tier I*	88	130	67.6923076923077	0
+TRUE	9	9.5.2	C090502	9.5.2 Researchers (in full-time equivalent) per million inhabitants	Tier I*	80	130	61.5384615384615	0
+TRUE	9	9.a.1	C090a01	9.a.1 Total official international support (official development assistance plus other official flows) to infrastructure	Tier I*	128	130	98.4615384615385	1
+TRUE	9	9.b.1	C090b01	9.b.1 Proportion of medium and high-tech industry value added in total value added	Tier I*	98	130	75.3846153846154	1
+TRUE	9	9.c.1	C090c01	9.c.1 Proportion of population covered by a mobile network, by technology	Tier I*	129	130	99.2307692307692	1
+TRUE	10	10.1.1	C100101	10.1.1 Growth rates of household expenditure or income per capita among the bottom 40<U+00A0>per<U+00A0>cent of the population and the total population	Tier II	61	130	46.9230769230769	0
+TRUE	10	10.4.1	C100401	10.4.1 Labour share of GDP, comprising wages and social protection transfers	Tier II	14	130	10.7692307692308	0
+TRUE	10	10.6.1, 16.8.1	C200205	10.6.1 Proportion of members and voting rights of developing countries in international organizations	Tier I*	129	130	99.2307692307692	1
+TRUE	10	10.a.1	C100a01	10.a.1 Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff	Tier I*	0	130	0	0
+TRUE	10	10.b.1	C100b01	10.b.1 Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)	Tier I*	130	130	100	1
+TRUE	10	10.c.1	C100c01	10.c.1 Remittance costs as a proportion of the amount remitted	Tier II	95	130	73.0769230769231	0
+TRUE	11	1.5.1, 11.5.1, 13.1.1	C200303	1.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population	Tier II	83	130	63.8461538461538	0
+TRUE	11	1.5.2, 11.5.2	C010502	1.5.2 Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)	Tier II	83	130	63.8461538461538	0
+TRUE	11	1.5.3, 11.b.1, 13.1.2	C200304	1.5.3 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015<U+0096>2030	Tier I*	84	130	64.6153846153846	0
+TRUE	11	1.5.4, 11.b.2, 13.1.3	C200305	1.5.4 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies	Tier II	9	130	6.92307692307692	0
+TRUE	11	11.1.1	C110101	11.1.1 Proportion of urban population living in slums, informal settlements or inadequate housing	Tier I*	92	130	70.7692307692308	0
+TRUE	11	11.5.2	C110502	11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters	Tier II	83	130	63.8461538461538	0
+TRUE	11	11.6.1	C110601	11.6.1 Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities	Tier II	68	130	52.3076923076923	0
+TRUE	11	11.6.2	C110602	11.6.2 Annual mean levels of fine particulate matter (e.g.<U+00A0>PM2.5 and PM10) in cities (population weighted)	Tier I*	129	130	99.2307692307692	1
+TRUE	12	12.1.1	C120101	12.1.1 Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies	Tier II	48	130	36.9230769230769	0
+TRUE	12	12.2.2, 8.4.2	C200203	8.4.2 Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP	Tier I*	129	130	99.2307692307692	1
+TRUE	12	12.4.1	C120401	12.4.1 Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement	Tier I*	129	130	99.2307692307692	1
+TRUE	13	1.5.1, 11.5.1, 13.1.1	C200303	1.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population	Tier II	83	130	63.8461538461538	0
+TRUE	13	1.5.3, 11.b.1, 13.1.2	C200304	1.5.3 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015<U+0096>2030	Tier I*	84	130	64.6153846153846	0
+TRUE	13	1.5.4, 11.b.2, 13.1.3	C200305	1.5.4 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies	Tier II	9	130	6.92307692307692	0
+TRUE	14	14.4.1	C140401	14.4.1 Proportion of fish stocks within biologically sustainable levels	Tier I*	0	130	0	0
+TRUE	14	14.5.1	C140501	14.5.1 Coverage of protected areas in relation to marine areas	Tier I*	97	130	74.6153846153846	0
+TRUE	14	14.a.1	C140a01	14.a.1 Proportion of total research budget allocated to research in the field of marine technology	Tier II	10	130	7.69230769230769	0
+TRUE	15	15.1.1	C150101	15.1.1 Forest area as a proportion of total land area	Tier I*	130	130	100	1
+TRUE	15	15.1.2	C150102	15.1.2 Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type	Tier I*	127	130	97.6923076923077	1
+TRUE	15	15.2.1	C150201	15.2.1 Progress towards sustainable forest management	Tier I*	130	130	100	1
+TRUE	15	15.4.1	C150401	15.4.1 Coverage by protected areas of important sites for mountain biodiversity	Tier I*	108	130	83.0769230769231	1
+TRUE	15	15.4.2	C150402	15.4.2 Mountain Green Cover Index	Tier I*	120	130	92.3076923076923	1
+TRUE	15	15.5.1	C150501	15.5.1 Red List Index	Tier I*	130	130	100	1
+TRUE	15	15.6.1	C150601	15.6.1 Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits	Tier I*	130	130	100	1
+TRUE	15	15.a.1, 15.b.1	C200207	15.a.1 Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems	Tier I*	128	130	98.4615384615385	1
+TRUE	16	10.6.1, 16.8.1	C200205	10.6.1 Proportion of members and voting rights of developing countries in international organizations	Tier I*	129	130	99.2307692307692	1
+TRUE	16	16.1.1	C160101	16.1.1 Number of victims of intentional homicide per 100,000 population, by sex and age	Tier I*	124	130	95.3846153846154	1
+TRUE	16	16.10.1	C161001	16.10.1 Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12<U+00A0>months	Tier II	0	130	0	0
+TRUE	16	16.10.2	C161002	16.10.2 Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information	Tier II	73	130	56.1538461538462	0
+TRUE	16	16.2.1	C160201	16.2.1 Proportion of children aged 1<U+0096>17<U+00A0>years who experienced any physical punishment and/or psychological aggression by caregivers in the past month	Tier II	76	130	58.4615384615385	0
+TRUE	16	16.2.2	C160202	16.2.2 Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation	Tier II	45	130	34.6153846153846	0
+TRUE	16	16.2.3	C160203	16.2.3 Proportion of young women and men aged 18<U+0096>29<U+00A0>years who experienced sexual violence by age<U+00A0>18	Tier II	40	130	30.7692307692308	0
+TRUE	16	16.3.2	C160302	16.3.2 Unsentenced detainees as a proportion of overall prison population	Tier I*	78	130	60	0
+TRUE	16	16.5.2	C160502	16.5.2 Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12<U+00A0>months	Tier II	113	130	86.9230769230769	1
+TRUE	16	16.6.1	C160601	16.6.1 Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)	Tier I*	0	130	0	0
+TRUE	16	16.9.1	C160901	16.9.1 Proportion of children under 5<U+00A0>years of age whose births have been registered with a civil authority, by age	Tier I*	120	130	92.3076923076923	1
+TRUE	16	16.a.1	C160a01	16.a.1 Existence of independent national human rights institutions in compliance with the Paris Principles	Tier I*	130	130	100	1
+TRUE	17	17.10.1	C171001	17.10.1 Worldwide weighted tariff-average	Tier I*	0	130	0	0
+TRUE	17	17.11.1	C171101	17.11.1 Developing countries<U+0092> and least developed countries<U+0092> share of global exports	Tier I*	0	130	0	0
+TRUE	17	17.12.1	C171201	17.12.1 Average tariffs faced by developing countries, least developed countries and small island developing States	Tier I*	0	130	0	0
+TRUE	17	17.15.1	C171501	17.15.1 Extent of use of country-owned results frameworks and planning tools by providers of development cooperation	Tier II	74	130	56.9230769230769	0
+TRUE	17	17.16.1	C171601	17.16.1 Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals	Tier II	79	130	60.7692307692308	0
+TRUE	17	17.18.2	C171802	17.18.2 Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics	Tier II	46	130	35.3846153846154	0
+TRUE	17	17.18.3	C171803	17.18.3 Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding	Tier I*	71	130	54.6153846153846	0
+TRUE	17	17.19.1	C171901	17.19.1 Dollar value of all resources made available to strengthen statistical capacity in developing countries	Tier I*	128	130	98.4615384615385	1
+TRUE	17	17.19.2	C171902	17.19.2 Proportion of countries that (a) have conducted at least one population and housing census in the last 10<U+00A0>years; and (b) have achieved 100<U+00A0>per<U+00A0>cent birth registration and 80<U+00A0>per<U+00A0>cent death registration	Tier I*	119	130	91.5384615384615	1
+TRUE	17	17.2.1	C170201	17.2.1 Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors<U+0092> gross national income (GNI)	Tier I*	0	130	0	0
+TRUE	17	17.3.2	C170302	17.3.2 Volume of remittances (in United States dollars) as a proportion of total GDP	Tier I*	120	130	92.3076923076923	1
+TRUE	17	17.4.1	C170401	17.4.1 Debt service as a proportion of exports of goods and services	Tier I*	107	130	82.3076923076923	1
+TRUE	17	17.6.2	C170602	17.6.2 Fixed Internet broadband subscriptions per 100 inhabitants, by speed	Tier I*	128	130	98.4615384615385	1
+TRUE	17	17.8.1	C170801	17.8.1 Proportion of individuals using the Internet	Tier I*	129	130	99.2307692307692	1
+TRUE	17	17.9.1	C170901	17.9.1 Dollar value of financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to developing countries	Tier I*	128	130	98.4615384615385	1
+FALSE	1	1.1.1	C010101	1.1.1 Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)	Tier I*	45	65	69.2307692307692	0
+FALSE	1	1.2.1	C010201	1.2.1 Proportion of population living below the national poverty line, by sex and age	Tier I*	20	65	30.7692307692308	0
+FALSE	1	1.3.1	C010301	1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable	Tier II	59	65	90.7692307692308	1
+FALSE	1	1.5.1, 11.5.1, 13.1.1	C200303	1.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population	Tier II	31	65	47.6923076923077	0
+FALSE	1	1.5.2, 11.5.2	C010502	1.5.2 Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)	Tier II	31	65	47.6923076923077	0
+FALSE	1	1.5.3, 11.b.1, 13.1.2	C200304	1.5.3 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015<U+0096>2030	Tier I*	35	65	53.8461538461538	0
+FALSE	1	1.5.4, 11.b.2, 13.1.3	C200305	1.5.4 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies	Tier II	6	65	9.23076923076923	0
+FALSE	1	1.a.2	C010a02	1.a.2 Proportion of total government spending on essential services (education, health and social protection)	Tier II	60	65	92.3076923076923	1
+FALSE	2	2.1.1	C020101	2.1.1 Prevalence of undernourishment	Tier I*	50	65	76.9230769230769	1
+FALSE	2	2.1.2	C020102	2.1.2 Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)	Tier II	27	65	41.5384615384615	0
+FALSE	2	2.2.1	C020201	2.2.1 Prevalence of stunting (height for age &lt;-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5<U+00A0>years of age	Tier I*	18	65	27.6923076923077	0
+FALSE	2	2.2.2	C020202	2.2.2 Prevalence of malnutrition (weight for height &gt;+2 or &lt;-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5<U+00A0>years of age, by type (wasting and overweight)	Tier I*	19	65	29.2307692307692	0
+FALSE	2	2.5.1	C020501	2.5.1 Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities	Tier I*	54	65	83.0769230769231	1
+FALSE	2	2.5.2	C020502	2.5.2 Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction	Tier I*	52	65	80	1
+FALSE	2	2.a.1	C020a01	2.a.1 The agriculture orientation index for government expenditures	Tier I*	48	65	73.8461538461539	0
+FALSE	2	2.a.2	C020a02	2.a.2 Total official flows (official development assistance plus other official flows) to the agriculture sector	Tier I*	19	65	29.2307692307692	0
+FALSE	2	2.b.1	C020b02	2.b.1 Agricultural export subsidies	Tier I*	0	65	0	0
+FALSE	2	2.c.1	C020c01	2.c.1 Indicator of food price anomalies	Tier II	4	65	6.15384615384615	0
+FALSE	3	3.1.1	C030101	3.1.1 Maternal mortality ratio	Tier I*	52	65	80	1
+FALSE	3	3.1.2	C030102	3.1.2 Proportion of births attended by skilled health personnel	Tier I*	52	65	80	1
+FALSE	3	3.2.1	C030201	3.2.1 Under-5 mortality rate	Tier I*	63	65	96.9230769230769	1
+FALSE	3	3.2.2	C030202	3.2.2 Neonatal mortality rate	Tier I*	63	65	96.9230769230769	1
+FALSE	3	3.3.1	C030301	3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations	Tier I*	19	65	29.2307692307692	0
+FALSE	3	3.3.2	C030302	3.3.2 Tuberculosis incidence per 100,000 population	Tier I*	63	65	96.9230769230769	1
+FALSE	3	3.3.3	C030303	3.3.3 Malaria incidence per 1,000 population	Tier I*	3	65	4.61538461538462	0
+FALSE	3	3.3.4	C030304	3.3.4 Hepatitis B incidence per 100,000 population	Tier I*	63	65	96.9230769230769	1
+FALSE	3	3.3.5	C030305	3.3.5 Number of people requiring interventions against neglected tropical diseases	Tier I*	63	65	96.9230769230769	1
+FALSE	3	3.4.1	C030401	3.4.1 Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease	Tier I*	54	65	83.0769230769231	1
+FALSE	3	3.4.2	C030402	3.4.2 Suicide mortality rate	Tier I*	54	65	83.0769230769231	1
+FALSE	3	3.5.2	C030502	3.5.2 Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15<U+00A0>years and older) within a calendar year in litres of pure alcohol	Tier I*	59	65	90.7692307692308	1
+FALSE	3	3.6.1	C030601	3.6.1 Death rate due to road traffic injuries	Tier I*	63	65	96.9230769230769	1
+FALSE	3	3.7.1	C030701	3.7.1 Proportion of women of reproductive age (aged 15<U+0096>49<U+00A0>years) who have their need for family planning satisfied with modern methods	Tier I*	15	65	23.0769230769231	0
+FALSE	3	3.7.2	C030702	3.7.2 Adolescent birth rate (aged 10<U+0096>14 years; aged 15<U+0096>19<U+00A0>years) per 1,000 women in that age group	Tier I*	63	65	96.9230769230769	1
+FALSE	3	3.8.1	C030801	3.8.1 Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)	Tier I*	54	65	83.0769230769231	1
+FALSE	3	3.8.2	C030802	3.8.2 Proportion of population with large household expenditures on health as a share of total household expenditure or income	Tier I*	31	65	47.6923076923077	0
+FALSE	3	3.9.1	C030901	3.9.1 Mortality rate attributed to household and ambient air pollution	Tier I*	63	65	96.9230769230769	1
+FALSE	3	3.9.2	C030902	3.9.2 Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)	Tier I*	54	65	83.0769230769231	1
+FALSE	3	3.9.3	C030903	3.9.3 Mortality rate attributed to unintentional poisoning	Tier I*	54	65	83.0769230769231	1
+FALSE	3	3.a.1	C030a01	3.a.1 Age-standardized prevalence of current tobacco use among persons aged 15<U+00A0>years and older	Tier I*	51	65	78.4615384615385	1
+FALSE	3	3.b.1	C030b01	3.b.1 Proportion of the target population covered by all vaccines included in their national programme	Tier I*	63	65	96.9230769230769	1
+FALSE	3	3.b.2	C030b02	3.b.2 Total net official development assistance to medical research and basic health sectors	Tier I*	18	65	27.6923076923077	0
+FALSE	3	3.c.1	C030c01	3.c.1 Health worker density and distribution	Tier I*	62	65	95.3846153846154	1
+FALSE	3	3.d.1	C030d01	3.d.1 International Health Regulations (IHR) capacity and health emergency preparedness	Tier I*	63	65	96.9230769230769	1
+FALSE	4	4.1.1	C040101	4.1.1 Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex	Tier II	44	65	67.6923076923077	0
+FALSE	4	4.2.1	C040201	4.2.1 Proportion of children under 5<U+00A0>years of age who are developmentally on track in health, learning and psychosocial well-being, by sex	Tier III	3	65	4.61538461538462	0
+FALSE	4	4.2.2	C040202	4.2.2 Participation rate in organized learning (one year before the official primary entry age), by sex	Tier I*	52	65	80	1
+FALSE	4	4.3.1	C040301	4.3.1 Participation rate of youth and adults in formal and non-formal education and training in the previous 12<U+00A0>months, by sex	Tier II	39	65	60	0
+FALSE	4	4.4.1	C040401	4.4.1 Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill	Tier II	36	65	55.3846153846154	0
+FALSE	4	4.5.1	C040501	4.5.1 Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated	Tier I*	63	65	96.9230769230769	1
+FALSE	4	4.6.1	C040601	4.6.1 Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex	Tier II	28	65	43.0769230769231	0
+FALSE	4	4.a.1	C040a01	4.a.1 Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g)<U+00A0>basic handwashing facilities (as per the WASH indicator definitions)	Tier II	36	65	55.3846153846154	0
+FALSE	4	4.b.1	C040b01	4.b.1 Volume of official development assistance flows for scholarships by sector and type of study	Tier I*	18	65	27.6923076923077	0
+FALSE	4	4.c.1	C040c01	4.c.1 Proportion of teachers in: (a) pre-primary; (b)<U+00A0>primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country	Tier II	20	65	30.7692307692308	0
+FALSE	5	5.2.1	C050201	5.2.1 Proportion of ever-partnered women and girls aged 15<U+00A0>years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age	Tier II	34	65	52.3076923076923	0
+FALSE	5	5.3.1	C050301	5.3.1 Proportion of women aged 20<U+0096>24<U+00A0>years who were married or in a union before age 15 and before age 18	Tier II	9	65	13.8461538461538	0
+FALSE	5	5.3.2	C050302	5.3.2 Proportion of girls and women aged 15<U+0096>49<U+00A0>years who have undergone female genital mutilation/cutting, by<U+00A0>age	Tier II	0	65	0	0
+FALSE	5	5.4.1	C050401	5.4.1 Proportion of time spent on unpaid domestic and care work, by sex, age and location	Tier II	35	65	53.8461538461538	0
+FALSE	5	5.5.1	C050501	5.5.1 Proportion of seats held by women in (a) national parliaments and (b) local governments	Tier I*	64	65	98.4615384615385	1
+FALSE	5	5.5.2	C050502	5.5.2 Proportion of women in managerial positions	Tier I*	53	65	81.5384615384615	1
+FALSE	5	5.6.1	C050601	5.6.1 Proportion of women aged 15<U+0096>49<U+00A0>years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care	Tier II	0	65	0	0
+FALSE	5	5.b.1	C050b01	5.b.1 Proportion of individuals who own a mobile telephone, by sex	Tier II	14	65	21.5384615384615	0
+FALSE	6	6.1.1	C060101	6.1.1 Proportion of population using safely managed drinking water services	Tier II	43	65	66.1538461538461	0
+FALSE	6	6.2.1	C060201	6.2.1 Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water	Tier II	63	65	96.9230769230769	1
+FALSE	6	6.3.2	C060302	6.3.2 Proportion of bodies of water with good ambient water quality	Tier II	19	65	29.2307692307692	0
+FALSE	6	6.4.2	C060402	6.4.2 Level of water stress: freshwater withdrawal as a proportion of available freshwater resources	Tier I*	53	65	81.5384615384615	1
+FALSE	6	6.5.1	C060501	6.5.1 Degree of integrated water resources management implementation (0<U+0096>100)	Tier I*	64	65	98.4615384615385	1
+FALSE	6	6.5.2	C060502	6.5.2 Proportion of transboundary basin area with an operational arrangement for water cooperation	Tier I*	64	65	98.4615384615385	1
+FALSE	6	6.6.1	C060601	6.6.1 Change in the extent of water-related ecosystems over time	Tier I*	64	65	98.4615384615385	1
+FALSE	6	6.a.1	C060a01	6.a.1 Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan	Tier I*	19	65	29.2307692307692	0
+FALSE	6	6.b.1	C060b01	6.b.1 Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management	Tier I*	7	65	10.7692307692308	0
+FALSE	7	7.1.1	C070101	7.1.1 Proportion of population with access to electricity	Tier I*	64	65	98.4615384615385	1
+FALSE	7	7.1.2	C070102	7.1.2 Proportion of population with primary reliance on clean fuels and technology	Tier I*	63	65	96.9230769230769	1
+FALSE	7	7.2.1	C070201	7.2.1 Renewable energy share in the total final energy consumption	Tier I*	63	65	96.9230769230769	1
+FALSE	7	7.3.1	C070301	7.3.1 Energy intensity measured in terms of primary energy and GDP	Tier I*	57	65	87.6923076923077	1
+FALSE	8	12.2.2, 8.4.2	C200203	8.4.2 Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP	Tier I*	56	65	86.1538461538462	1
+FALSE	8	8.1.1	C080101	8.1.1 Annual growth rate of real GDP per capita	Tier I*	65	65	100	1
+FALSE	8	8.10.1	C081001	8.10.1 (a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults	Tier I*	59	65	90.7692307692308	1
+FALSE	8	8.10.2	C081002	8.10.2 Proportion of adults (15<U+00A0>years and older) with an account at a bank or other financial institution or with a mobile-money-service provider	Tier I*	41	65	63.0769230769231	0
+FALSE	8	8.2.1	C080201	8.2.1 Annual growth rate of real GDP per employed person	Tier I*	49	65	75.3846153846154	1
+FALSE	8	8.3.1	C080301	8.3.1 Proportion of informal employment in non-agriculture employment, by sex	Tier II	1	65	1.53846153846154	0
+FALSE	8	8.5.1	C080501	8.5.1 Average hourly earnings of female and male employees, by occupation, age and persons with disabilities	Tier II	35	65	53.8461538461538	0
+FALSE	8	8.5.2	C080502	8.5.2 Unemployment rate, by sex, age and persons with disabilities	Tier I*	59	65	90.7692307692308	1
+FALSE	8	8.6.1	C080601	8.6.1 Proportion of youth (aged 15<U+0096>24<U+00A0>years) not in education, employment or training	Tier I*	41	65	63.0769230769231	0
+FALSE	8	8.7.1	C080701	8.7.1 Proportion and number of children aged 5<U+0096>17<U+00A0>years engaged in child labour, by sex and age	Tier II	2	65	3.07692307692308	0
+FALSE	8	8.8.1	C080801	8.8.1 Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status	Tier II	39	65	60	0
+FALSE	8	8.a.1	C080a01	8.a.1 Aid for Trade commitments and disbursements	Tier I*	45	65	69.2307692307692	0
+FALSE	9	9.1.2	C090102	9.1.2 Passenger and freight volumes, by mode of transport	Tier I*	62	65	95.3846153846154	1
+FALSE	9	9.2.1	C090201	9.2.1 Manufacturing value added as a proportion of GDP and per capita	Tier I*	62	65	95.3846153846154	1
+FALSE	9	9.2.2	C090202	9.2.2 Manufacturing employment as a proportion of total employment	Tier I*	51	65	78.4615384615385	1
+FALSE	9	9.3.1	C090301	9.3.1 Proportion of small-scale industries in total industry value added	Tier II	36	65	55.3846153846154	0
+FALSE	9	9.3.2	C090302	9.3.2 Proportion of small-scale industries with a loan or line of credit	Tier II	25	65	38.4615384615385	0
+FALSE	9	9.4.1	C090401	9.4.1 CO2 emission per unit of value added	Tier I*	43	65	66.1538461538461	0
+FALSE	9	9.5.1	C090501	9.5.1 Research and development expenditure as a proportion of GDP	Tier I*	46	65	70.7692307692308	0
+FALSE	9	9.5.2	C090502	9.5.2 Researchers (in full-time equivalent) per million inhabitants	Tier I*	44	65	67.6923076923077	0
+FALSE	9	9.a.1	C090a01	9.a.1 Total official international support (official development assistance plus other official flows) to infrastructure	Tier I*	20	65	30.7692307692308	0
+FALSE	9	9.b.1	C090b01	9.b.1 Proportion of medium and high-tech industry value added in total value added	Tier I*	46	65	70.7692307692308	0
+FALSE	9	9.c.1	C090c01	9.c.1 Proportion of population covered by a mobile network, by technology	Tier I*	63	65	96.9230769230769	1
+FALSE	10	10.1.1	C100101	10.1.1 Growth rates of household expenditure or income per capita among the bottom 40<U+00A0>per<U+00A0>cent of the population and the total population	Tier II	33	65	50.7692307692308	0
+FALSE	10	10.4.1	C100401	10.4.1 Labour share of GDP, comprising wages and social protection transfers	Tier II	39	65	60	0
+FALSE	10	10.6.1, 16.8.1	C200205	10.6.1 Proportion of members and voting rights of developing countries in international organizations	Tier I*	65	65	100	1
+FALSE	10	10.a.1	C100a01	10.a.1 Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff	Tier I*	0	65	0	0
+FALSE	10	10.b.1	C100b01	10.b.1 Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)	Tier I*	57	65	87.6923076923077	1
+FALSE	10	10.c.1	C100c01	10.c.1 Remittance costs as a proportion of the amount remitted	Tier II	10	65	15.3846153846154	0
+FALSE	11	1.5.1, 11.5.1, 13.1.1	C200303	1.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population	Tier II	31	65	47.6923076923077	0
+FALSE	11	1.5.2, 11.5.2	C010502	1.5.2 Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)	Tier II	31	65	47.6923076923077	0
+FALSE	11	1.5.3, 11.b.1, 13.1.2	C200304	1.5.3 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015<U+0096>2030	Tier I*	35	65	53.8461538461538	0
+FALSE	11	1.5.4, 11.b.2, 13.1.3	C200305	1.5.4 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies	Tier II	6	65	9.23076923076923	0
+FALSE	11	11.1.1	C110101	11.1.1 Proportion of urban population living in slums, informal settlements or inadequate housing	Tier I*	2	65	3.07692307692308	0
+FALSE	11	11.5.2	C110502	11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters	Tier II	31	65	47.6923076923077	0
+FALSE	11	11.6.1	C110601	11.6.1 Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities	Tier II	30	65	46.1538461538462	0
+FALSE	11	11.6.2	C110602	11.6.2 Annual mean levels of fine particulate matter (e.g.<U+00A0>PM2.5 and PM10) in cities (population weighted)	Tier I*	63	65	96.9230769230769	1
+FALSE	12	12.1.1	C120101	12.1.1 Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies	Tier II	23	65	35.3846153846154	0
+FALSE	12	12.2.2, 8.4.2	C200203	8.4.2 Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP	Tier I*	56	65	86.1538461538462	1
+FALSE	12	12.4.1	C120401	12.4.1 Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement	Tier I*	64	65	98.4615384615385	1
+FALSE	13	1.5.1, 11.5.1, 13.1.1	C200303	1.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population	Tier II	31	65	47.6923076923077	0
+FALSE	13	1.5.3, 11.b.1, 13.1.2	C200304	1.5.3 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015<U+0096>2030	Tier I*	35	65	53.8461538461538	0
+FALSE	13	1.5.4, 11.b.2, 13.1.3	C200305	1.5.4 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies	Tier II	6	65	9.23076923076923	0
+FALSE	14	14.4.1	C140401	14.4.1 Proportion of fish stocks within biologically sustainable levels	Tier I*	0	65	0	0
+FALSE	14	14.5.1	C140501	14.5.1 Coverage of protected areas in relation to marine areas	Tier I*	55	65	84.6153846153846	1
+FALSE	14	14.a.1	C140a01	14.a.1 Proportion of total research budget allocated to research in the field of marine technology	Tier II	15	65	23.0769230769231	0
+FALSE	15	15.1.1	C150101	15.1.1 Forest area as a proportion of total land area	Tier I*	64	65	98.4615384615385	1
+FALSE	15	15.1.2	C150102	15.1.2 Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type	Tier I*	60	65	92.3076923076923	1
+FALSE	15	15.2.1	C150201	15.2.1 Progress towards sustainable forest management	Tier I*	64	65	98.4615384615385	1
+FALSE	15	15.4.1	C150401	15.4.1 Coverage by protected areas of important sites for mountain biodiversity	Tier I*	39	65	60	0
+FALSE	15	15.4.2	C150402	15.4.2 Mountain Green Cover Index	Tier I*	42	65	64.6153846153846	0
+FALSE	15	15.5.1	C150501	15.5.1 Red List Index	Tier I*	64	65	98.4615384615385	1
+FALSE	15	15.6.1	C150601	15.6.1 Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits	Tier I*	64	65	98.4615384615385	1
+FALSE	15	15.a.1, 15.b.1	C200207	15.a.1 Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems	Tier I*	46	65	70.7692307692308	0
+FALSE	16	10.6.1, 16.8.1	C200205	10.6.1 Proportion of members and voting rights of developing countries in international organizations	Tier I*	65	65	100	1
+FALSE	16	16.1.1	C160101	16.1.1 Number of victims of intentional homicide per 100,000 population, by sex and age	Tier I*	63	65	96.9230769230769	1
+FALSE	16	16.10.1	C161001	16.10.1 Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12<U+00A0>months	Tier II	0	65	0	0
+FALSE	16	16.10.2	C161002	16.10.2 Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information	Tier II	42	65	64.6153846153846	0
+FALSE	16	16.2.1	C160201	16.2.1 Proportion of children aged 1<U+0096>17<U+00A0>years who experienced any physical punishment and/or psychological aggression by caregivers in the past month	Tier II	5	65	7.69230769230769	0
+FALSE	16	16.2.2	C160202	16.2.2 Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation	Tier II	34	65	52.3076923076923	0
+FALSE	16	16.2.3	C160203	16.2.3 Proportion of young women and men aged 18<U+0096>29<U+00A0>years who experienced sexual violence by age<U+00A0>18	Tier II	0	65	0	0
+FALSE	16	16.3.2	C160302	16.3.2 Unsentenced detainees as a proportion of overall prison population	Tier I*	55	65	84.6153846153846	1
+FALSE	16	16.5.2	C160502	16.5.2 Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12<U+00A0>months	Tier II	25	65	38.4615384615385	0
+FALSE	16	16.6.1	C160601	16.6.1 Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)	Tier I*	0	65	0	0
+FALSE	16	16.9.1	C160901	16.9.1 Proportion of children under 5<U+00A0>years of age whose births have been registered with a civil authority, by age	Tier I*	49	65	75.3846153846154	1
+FALSE	16	16.a.1	C160a01	16.a.1 Existence of independent national human rights institutions in compliance with the Paris Principles	Tier I*	64	65	98.4615384615385	1
+FALSE	17	17.10.1	C171001	17.10.1 Worldwide weighted tariff-average	Tier I*	0	65	0	0
+FALSE	17	17.11.1	C171101	17.11.1 Developing countries<U+0092> and least developed countries<U+0092> share of global exports	Tier I*	0	65	0	0
+FALSE	17	17.12.1	C171201	17.12.1 Average tariffs faced by developing countries, least developed countries and small island developing States	Tier I*	0	65	0	0
+FALSE	17	17.15.1	C171501	17.15.1 Extent of use of country-owned results frameworks and planning tools by providers of development cooperation	Tier II	40	65	61.5384615384615	0
+FALSE	17	17.16.1	C171601	17.16.1 Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals	Tier II	39	65	60	0
+FALSE	17	17.18.2	C171802	17.18.2 Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics	Tier II	47	65	72.3076923076923	0
+FALSE	17	17.18.3	C171803	17.18.3 Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding	Tier I*	36	65	55.3846153846154	0
+FALSE	17	17.19.1	C171901	17.19.1 Dollar value of all resources made available to strengthen statistical capacity in developing countries	Tier I*	19	65	29.2307692307692	0
+FALSE	17	17.19.2	C171902	17.19.2 Proportion of countries that (a) have conducted at least one population and housing census in the last 10<U+00A0>years; and (b) have achieved 100<U+00A0>per<U+00A0>cent birth registration and 80<U+00A0>per<U+00A0>cent death registration	Tier I*	64	65	98.4615384615385	1
+FALSE	17	17.2.1	C170201	17.2.1 Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors<U+0092> gross national income (GNI)	Tier I*	29	65	44.6153846153846	0
+FALSE	17	17.3.2	C170302	17.3.2 Volume of remittances (in United States dollars) as a proportion of total GDP	Tier I*	56	65	86.1538461538462	1
+FALSE	17	17.4.1	C170401	17.4.1 Debt service as a proportion of exports of goods and services	Tier I*	12	65	18.4615384615385	0
+FALSE	17	17.6.2	C170602	17.6.2 Fixed Internet broadband subscriptions per 100 inhabitants, by speed	Tier I*	64	65	98.4615384615385	1
+FALSE	17	17.8.1	C170801	17.8.1 Proportion of individuals using the Internet	Tier I*	64	65	98.4615384615385	1
+FALSE	17	17.9.1	C170901	17.9.1 Dollar value of financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to developing countries	Tier I*	20	65	30.7692307692308	0

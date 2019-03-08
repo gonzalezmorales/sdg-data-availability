@@ -27,7 +27,7 @@ source('code/f_doughnut2.r')
 # Read data
 #----------------------------------
 
-availability_data <- read.tab2dataTable("data/IndicatorAvailability20190306.txt")
+availability_data <- read.tab2dataTable("data/IndicatorAvailability195_20190306.txt")
 cr_countries <- read.tab2dataTable("data/RC-List-Merged.txt")
 json_colors <- fromJSON(file="data/sdg_colors.json")
 
@@ -82,9 +82,9 @@ availability_data[,isRC := !is.na(List_final)]
 #===========================================================
 
 availability_data[,TierX := ifelse(Tier%in%c("Tier I",
-                                             "Tier I/II/III depending on index",
-                                             "Tier I (a)/ Tier II (b)",
-                                             "Tier I (ODA)/ Tier II (FDI)",
+                                             "Tier I/II/III depending on indice",
+                                             "Tier I (a)/Tier II (b)",
+                                             "Tier I (ODA)/Tier II (FDI)",
                                              "Tier I/III"),"Tier I*", 
                                    Tier)]
 availability_data[, hasData := ifelse(dataPoints > 0 , 1, 0)]
@@ -120,7 +120,7 @@ T2[,percent := countriesAvailable / N * 100]
 T2[,Has75percentPlus := ifelse(percent>=75,1,0)]
 
 
-writeTable2tab(T1, "T1-availability-by-indicator-193.txt")
+writeTable2tab(T2, "T2-availability-by-indicator-195.txt")
 
 
 #===========================================================
