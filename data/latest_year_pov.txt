@@ -1,0 +1,64 @@
+Country	SI_POV_DAY1	SI_POV_NAHC
+Afghanistan		2011
+Albania	2012	2012
+Algeria	2011	2011
+Angola	2008	2008
+Azerbaijan	2005	2012
+Argentina	2016	2016
+Bahrain		
+Bangladesh	2016	2016
+Armenia	2016	2016
+Barbados		
+Bhutan	2017	2012
+Bolivia (Plurinational State of)	2016	2016
+Bosnia and Herzegovina	2015	2015
+Botswana	2009	2009
+Brazil	2015	2015
+Belize	1999	
+Burundi	2013	2014
+Belarus	2016	2016
+Cambodia		2012
+Cameroon	2014	2014
+Cabo Verde	2007	2015
+Central African Republic	2008	2008
+Chad	2011	2011
+Chile	2015	2015
+China	2015	2017
+Colombia	2016	2016
+Comoros	2013	2014
+Congo	2011	2011
+Democratic Republic of the Congo	2012	2012
+Costa Rica	2016	2017
+Cuba		
+Benin	2015	2015
+Dominican Republic	2016	2016
+Ecuador	2016	2017
+El Salvador	2016	2016
+Equatorial Guinea		2006
+Ethiopia	2015	2010
+Eritrea		1993
+Fiji	2013	2013
+Djibouti	2013	2013
+Gabon	2017	2005
+Georgia	2016	2016
+Gambia	2015	2010
+Ghana	2012	2012
+Guatemala	2014	2014
+Guinea	2012	2012
+Guyana	1998	
+Haiti	2012	2012
+Honduras	2016	2016
+India	2011	2011
+Indonesia	2017	2017
+Iran (Islamic Republic of)	2014	
+Iraq	2012	2012
+Cote d'Ivoire	2015	2015
+Jamaica	2004	2012
+Kazakhstan	2015	2015
+Jordan	2010	2010
+Kenya	2015	2015
+Democratic People's Republic of Korea		
+Guinea-Bissau	2010	2010
+Eswatini	2009	2009
+Egypt	2015	2015
+Burkina Faso	2014	2014

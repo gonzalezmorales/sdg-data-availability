@@ -30,6 +30,7 @@ source('code/f_doughnut2.r')
 availability_data <- read.tab2dataTable("data/IndicatorAvailability195_20190306.txt")
 cr_countries <- read.tab2dataTable("data/RC-List-Merged.txt")
 json_colors <- fromJSON(file="data/sdg_colors.json")
+poverty_latest <- read.tab2dataTable("data/latest_year_pov.txt")
 
 colors <- lapply(json_colors, function(sdg) # Loop through each "play"
 {
@@ -133,3 +134,20 @@ T2.rc[,Has75percentPlus := ifelse(percent>=75,1,0)]
 
 
 writeTable2tab(T2.rc, "T2-availability-by-indicator-and-rc-131.txt")
+
+#==========================================================
+
+latest_year_pov.txt
+
+pov.1 <- hist(poverty_latest$SI_POV_DAY1,
+              main = "Latest available year for Indicator 1.1.1\nProportion of population below international poverty line (%) \n (RC Countries)",
+                      xlab = "Year",
+                      col="#E5233D",
+              breaks = 1990:2017)
+
+
+pov.1 <- hist(poverty_latest$SI_POV_NAHC,
+              main = "Latest available year for Indicator 1.2.1\nProportion of population living below the national poverty line \n (RC Countries)",
+              xlab = "Year",
+              col="#E5233D",
+              breaks = 1990:2017)
